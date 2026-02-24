@@ -1,0 +1,2852 @@
+[
+    {
+        "q": "Only one of the boys ……………….. not done the home-work given yesterday.",
+        "options": [
+            "have",
+            "had",
+            "can",
+            "could"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "It is time we .......………….. with determination.",
+        "options": [
+            "act",
+            "acted",
+            "have acted",
+            "will act"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "When the thief entered the house, the inmates ................ in the hall.",
+        "options": [
+            "were sleeping",
+            "slept",
+            "were slept",
+            "had been sleeping"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The thief explained how he ……………………. from the jail.",
+        "options": [
+            "escapes",
+            "had escaped",
+            "escaped",
+            "has escaped"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "They did not know where they …………….… from.",
+        "options": [
+            "come",
+            "had come",
+            "has come",
+            "had came"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Madhu has not been able to recall where …………………………..",
+        "options": [
+            "does she live",
+            "she lived",
+            "did she live",
+            "lived the girl"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "When he died, Ramanujan ………………………. behind 3 notebooks.",
+        "options": [
+            "was leaving",
+            "had left",
+            "leave",
+            "leaves"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "All the applicants …………… and the results will be announced next week.",
+        "options": [
+            "rank",
+            "are to rank",
+            "are to be ranked",
+            "are ranking"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Tourists always enjoyed ………………….. the setting Sun in the Darjeeling hills.",
+        "options": [
+            "to watch",
+            "watching",
+            "in seeing",
+            "seeing"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Ramappa ……………………… as the mayor of the town and he will assume charge this Friday.",
+        "options": [
+            "elects",
+            "has been elected",
+            "is elected",
+            "is electing"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Just as in a family it is the willing cooperation of its members that ……………… happiness and contentment, so is it in the larger family of the nation.",
+        "options": [
+            "brought",
+            "will bring",
+            "bring",
+            "bought"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The old man could not remember where he ......... his money.",
+        "options": [
+            "deposits",
+            "is depositing",
+            "had deposited",
+            "will deposit"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Hamid …………………….. in Mumbai for three years when his parents came to visit.",
+        "options": [
+            "had lived",
+            "had lived",
+            "was living",
+            "had been living"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Two years have passed since he ………………………. here.",
+        "options": [
+            "has come",
+            "come",
+            "came",
+            "had come"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Will those of you who have objections to this proposal………. put up your hands, please?",
+        "options": [
+            "discussed",
+            "being discussed",
+            "having discussed",
+            "discussing"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "She had frequent toothaches. So she decided to …………………………",
+        "options": [
+            "remove her teeth",
+            "removing her teeth",
+            "have her teeth removed",
+            "having her teeth removed"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The mechanic …………………….. the vehicle since this morning.",
+        "options": [
+            "repaired",
+            "repairing",
+            "has been repairing",
+            "will be repairing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "If I had worked here, I ………………….. very high marks in the examination.",
+        "options": [
+            "scored",
+            "would score",
+            "could score",
+            "would have scored"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I got used ……………………… on the right when I was in the U.S. for two years.",
+        "options": [
+            "driving",
+            "to drive",
+            "to driving",
+            "by driving"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Had you told me earlier I …………………….. the meeting.",
+        "options": [
+            "had attended",
+            "have attended",
+            "attended",
+            "would have attended"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "There will be a rush for seats when the train …………………………...",
+        "options": [
+            "will arrive",
+            "arrived",
+            "is arriving",
+            "arrives"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "By the time I reach America, it ……………………. morning.",
+        "options": [
+            "is",
+            "will have become",
+            "must be",
+            "was"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "She feared that she……………………………..",
+        "options": [
+            "will fail",
+            "may fail",
+            "fails",
+            "failed"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "I was washing my face as the insect .................... quietly into the bedroom.",
+        "options": [
+            "crept",
+            "creeps",
+            "was creeping",
+            "has crept"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "During the recent floods two thirds of our city …………….... in ruins.",
+        "options": [
+            "are",
+            "were",
+            "is",
+            "was"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I have ……………………….. Lakshmi for the past twelve years.",
+        "options": [
+            "know",
+            "knew",
+            "known",
+            "knows"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The engineers ………………………. this bridge since last year.",
+        "options": [
+            "have repaired",
+            "had repaired",
+            "have been repairing",
+            "are repairing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "If I had helped him, he …………………",
+        "options": [
+            "will not be drowned",
+            "would not be drowned",
+            "will not have drowned",
+            "would not have drowned"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The housewife ……………………. cakes burning, and ran to switch off the oven.",
+        "options": [
+            "smell",
+            "smells",
+            "smelt",
+            "smelling"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "If you had followed the rules, you………………………. disqualified.",
+        "options": [
+            "will not be",
+            "would not be",
+            "will not have been",
+            "would not have been"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The farmers …………….. their farms, if they had known that a thunderstorm was approaching.",
+        "options": [
+            "will leave",
+            "would leave",
+            "will have left",
+            "would have left"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "………………… you hear the President’s speech ?",
+        "options": [
+            "Have",
+            "Has",
+            "Had",
+            "Did"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I …………………… to the movies with some friends last night.",
+        "options": [
+            "have gone",
+            "went",
+            "am gone",
+            "am going"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "If I ………………………. a doctor, I would serve the poor,",
+        "options": [
+            "am",
+            "had been",
+            "were",
+            "was"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The plane will take off when the thunderstorm ……………………….",
+        "options": [
+            "stops",
+            "stopped",
+            "would stop",
+            "will stop"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "When the doctor………………………….; the patient was already……………………………..",
+        "options": [
+            "arrived; died",
+            "arrived; dead",
+            "arrive; dead",
+            "arriving; dying"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "If you litter, you………………………. to pay a fine.",
+        "options": [
+            "will have",
+            "would have",
+            "will had",
+            "would had"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The life-guard would not let the children………………… at the deep end of the pool.",
+        "options": [
+            "swims",
+            "swim",
+            "swam",
+            "to swim"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The audience watched the clowns…………………………..",
+        "options": [
+            "performs",
+            "perform",
+            "performed",
+            "are performing"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "We shall go for a picnic if the weather……………………..good.",
+        "options": [
+            "is",
+            "was",
+            "has been",
+            "had been"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I …………………. hard to establish the validity of the theory since morning.",
+        "options": [
+            "have been trying",
+            "had tried",
+            "tried",
+            "am trying"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I wish I ………………………… her to clean the room.",
+        "options": [
+            "have asking",
+            "have asked",
+            "asked",
+            "had asked"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Simon …………………….. very polite at the moment, because he wants to make a good impression.",
+        "options": [
+            "was being",
+            "has been",
+            "is behaving",
+            "is being"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Had I saved money, I ………………………….. a new car.",
+        "options": [
+            "will purchase",
+            "would purchase",
+            "would have purchased",
+            "purchased"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "He told me that he ……………………… the movie.",
+        "options": [
+            "is finished",
+            "was finished",
+            "had finished",
+            "not finished"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The railway coaches …………………………. by the Integral Coach Factory, Chennai.",
+        "options": [
+            "is manufactured",
+            "are manufactured",
+            "are manufacture",
+            "is being manufactured"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The car broke down and we …………………… get a taxi.",
+        "options": [
+            "were to",
+            "are to",
+            "had to",
+            "have to"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "He said I …………………. use his car when ever I wanted.",
+        "options": [
+            "could",
+            "can",
+            "will",
+            "would"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "While he was working at the site, a block of wood suddenly ………… his right shoulder.",
+        "options": [
+            "was hitted",
+            "was hit",
+            "had hitted",
+            "hit"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "In the tragic incident, none of the 145 passengers ……………………….",
+        "options": [
+            "could survived",
+            "survive",
+            "survived",
+            "is surviving"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "I asked him for some paper, but he ……………………..",
+        "options": [
+            "had not",
+            "has not",
+            "had none",
+            "has none"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Did the child ………………….. from the chair?",
+        "options": [
+            "fell",
+            "fallen",
+            "falling",
+            "fall"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Work hard so that you …………………………. (Purpose)",
+        "options": [
+            "shall get good marks",
+            "will get good marks",
+            "may get good marks",
+            "should get good marks"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The officer …………………. the car to speak to the driver.",
+        "options": [
+            "stops",
+            "has stopped",
+            "stopped",
+            "had stopped"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Thank God! We reached. If there .......... jam on the highway, we would have been late for the reception.",
+        "options": [
+            "had been",
+            "would have been",
+            "was",
+            "were"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "If you ............ me up earlier, we would have gone there together.",
+        "options": [
+            "woke",
+            "had woken",
+            "wake",
+            "wakes"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Last night the residents .............. to discuss the occurrence of theft in the locality.",
+        "options": [
+            "assembled",
+            "had assembled",
+            "have assembled",
+            "were assembling"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The students decided to donate blood after they ............ the plight of the injured in various accidents in a documentary film.",
+        "options": [
+            "saw",
+            "had seen",
+            "had been seen",
+            "had been seeing"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The newspaper ............ seven cases of gruesome crime in the city yesterday.",
+        "options": [
+            "reported",
+            "has reported",
+            "had reported",
+            "have reported"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "An enquiry committee has been formed as devastating poverty and indebtedness .............. farmers in the country to commit suicide.",
+        "options": [
+            "forced",
+            "has forced",
+            "force",
+            "forces"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Last Saturday, my father ______ that his dinner suit was too small, so now he ______ a strict diet.",
+        "options": [
+            "Discovered / is following",
+            "Has discovered / followed",
+            "Discovers / was following",
+            "Was discovering / has followed"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Heena ______ from fever since last Sunday.",
+        "options": [
+            "Suffered",
+            "Has been suffering",
+            "Suffer",
+            "Will suffer"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Things have certainly changed; there ______ lots of small old houses around here when I ______ young.",
+        "options": [
+            "Used to be / was",
+            "Would be / was",
+            "Are / have been",
+            "Were / would have been"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Last week was very wet, but it ______ once yet this week.",
+        "options": [
+            "Did not rain",
+            "Have not rained",
+            "Is not raining",
+            "Has not rained"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "What ______ about the plan to shorten the school holidays?",
+        "options": [
+            "Do you think",
+            "Will you think",
+            "You think",
+            "Are you think"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The world is transforming at a rapid pace\nWith rising technology and heaps of e - waste.\nNations today are ______ in a rat race\nFor producing more radioactive waste.",
+        "options": [
+            "Caught up",
+            "Caught",
+            "Catching",
+            "Catching up"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "When he ______ her as a cheater, she ______ him to the headmaster.",
+        "options": [
+            "Had called / complained",
+            "Called / had complained",
+            "Has called / complains",
+            "Called / complained"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "In recent decades, the efficiency of the United Nations ______ by a growing number of countries.",
+        "options": [
+            "Would be questioned",
+            "Has been questioned",
+            "Had been questioned",
+            "Will have been questioned"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Tim was very upset yesterday because he ______ that he ______ his wallet.",
+        "options": [
+            "Realised, will lose",
+            "Realises, loses",
+            "Realised, had lost",
+            "Had realised, lost"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Anyas ______ (eat) all the chocolates kept in the tray.",
+        "options": [
+            "Eaten",
+            "Have eaten",
+            "Eating",
+            "Ate"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "A new hotel ______ in the centre of town.",
+        "options": [
+            "Is being built",
+            "Built",
+            "Is building",
+            "Is built"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "As my son ______ down by the river, I ______ his room thoroughly.",
+        "options": [
+            "Has fished / clean",
+            "Was fishing / cleaned",
+            "Fishes / have cleaned",
+            "Is fishing / cleaned"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The doctor ______ examined the patient when the family arrived.",
+        "options": [
+            "Was",
+            "Has",
+            "Have",
+            "Had"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "While my parents ______ in the shopping centre, a thief ______ into their car for the radio.",
+        "options": [
+            "Have shopped / breaks",
+            "Are shopping / was breaking",
+            "Were shopping / broke",
+            "Shopped / has broken"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "He ______ his boss that he ______ back after his vacation.",
+        "options": [
+            "Won't tell / won't have come",
+            "Doesn't tell / hasn't come",
+            "Hasn't told / won't be coming",
+            "Isn't telling / doesn't come"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "He is the man about whom we ______ so much.",
+        "options": [
+            "Heard",
+            "Have heard",
+            "Had heard",
+            "Would have heard"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The boy ______ (realize) his mistake when he reached the end of his journey.",
+        "options": [
+            "Has realized",
+            "Realizing",
+            "Realized",
+            "Can realize"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "When a satellite ______ (launch), the rocket begins by going slowly upwards.",
+        "options": [
+            "Were launched",
+            "Is launched",
+            "Have been launched",
+            "Are launched"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "A few years ago it ______ that certain cells of human body never ______.",
+        "options": [
+            "Has been found, died",
+            "Was found, die",
+            "Had been found, dies",
+            "Is found, died"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The last time we ______ dinner with them, they ______ for a new house.",
+        "options": [
+            "Had / were looking",
+            "Have been having / look",
+            "Were having / have been looking",
+            "Have had / looked"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Mother ______ Ali that he ______ to clean the garage after school.",
+        "options": [
+            "Had reminded, promised",
+            "Has reminded, promises",
+            "Reminded, will promise",
+            "Reminded, had promised"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I expect you ______ from school by this time next year and ______ for a job.",
+        "options": [
+            "Are graduating / have been looking",
+            "Have graduated / will have looked",
+            "Will have graduated / will be looking",
+            "Graduate / will have been looking"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Look at the drunken driver at the end of street! He ______ an accident.",
+        "options": [
+            "Is having",
+            "Is going to have",
+            "Has",
+            "Will have"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Environmental pollution ______ ever since people ______ to congregate in towns and cities.",
+        "options": [
+            "Exist / have begun",
+            "Had existed / were beginning",
+            "Will have existed / are beginning",
+            "Has existed / began"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "When I was ten years old, I ______ speak three languages.",
+        "options": [
+            "Could",
+            "Ought to",
+            "Would",
+            "Will"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "When he ______ is not known.",
+        "options": [
+            "Arrived",
+            "Will have arrived",
+            "Has arrived",
+            "will arrive"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I ______ anything since breakfast so I feel very thirsty now.",
+        "options": [
+            "Do not drink",
+            "Was not drinking",
+            "Have not drunk",
+            "Did not drink"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Governments are starting programmes ______ (teach) adults how to read and write.",
+        "options": [
+            "Which taught",
+            "Were teaching",
+            "That teaching",
+            "To teach"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Because I ______ a long way from my work, I ______ lots of time going to and from work.",
+        "options": [
+            "Have been living / wasted",
+            "Lived / have wasted",
+            "Am living / have been wasting",
+            "Live / waste"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "On my friend's farm, they ______ an alarm clock because the cockerel ______ at five o'clock every morning without fail.",
+        "options": [
+            "Didn't need / will crow",
+            "Wont need / is crowing",
+            "Don't need / crows",
+            "Haven't needed / was crowing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The students ______ to participate in the workshop, and submit a report at the end of the day to the English teacher.",
+        "options": [
+            "Had been asked",
+            "Were ask",
+            "Were asked",
+            "Will have asked"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "We ______ football for two hours and ______ to a restaurant for a meal, afterwards.",
+        "options": [
+            "Played / went",
+            "Have played / were going",
+            "Are playing / go",
+            "Play / are going"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "She says that she ______ the eight o'clock train tomorrow, but I'm sure she ______ it, as usual.",
+        "options": [
+            "Is going to catch / will miss",
+            "Will have caught / has missed",
+            "Has caught / misses",
+            "Is catching / is missing"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "My family ______ in the village since many years.",
+        "options": [
+            "Have been living",
+            "Was living",
+            "Is living",
+            "Has been living"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "For the time being, we ______ for the exam, but this time tomorrow we ______ the best movie of this year.",
+        "options": [
+            "Have studied, will be watching",
+            "Study, will watch",
+            "Are studying, will be watching",
+            "Are studying, will have watched"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "When I was a very young girl, ______ grocery shopping was considered a major outing for me.",
+        "options": [
+            "To be going",
+            "Going",
+            "Went",
+            "Having gone"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Since he woke up he ______.",
+        "options": [
+            "Has been studying",
+            "Has been study",
+            "Had studied",
+            "Is studying"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "She invited me to dinner. But it ______ two years since I ______ to her house. So I lost my way.",
+        "options": [
+            "Is / have - been",
+            "Is / went",
+            "Had been / went",
+            "Was / had gone"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "She last drove a car three years ago. Since she ______ an accident, she ______ a car for three years.",
+        "options": [
+            "Had had, hasn't driven",
+            "Has, hasn't driven",
+            "Had had, didn't drive",
+            "Had, hasn't driven"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I ______ for my pen. Have you seen it?",
+        "options": [
+            "Will look",
+            "Looking",
+            "Am looking",
+            "Look"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The swimmer ______ to be in difficulty, but he ______ to reach the shore in the end.",
+        "options": [
+            "Seemed / has managed",
+            "Seemed / managed",
+            "Has seemed / managed",
+            "Seems / manages"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "As he ______ the party, a strange man ______ him.",
+        "options": [
+            "Left / has been approaching",
+            "Leaves / was approaching",
+            "Was leaving / approached",
+            "Is leaving / has approached"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "During the summer months, the monastery ______ very busy, for it is visited by thousands of people who ______ the pass in cars.",
+        "options": [
+            "Is, cross",
+            "Was, crossed",
+            "Has been, cross",
+            "Is, crossed"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "She ______ me at the meetings only on Sundays as a child.",
+        "options": [
+            "Is seeing",
+            "Had seen",
+            "Saw",
+            "Was seeing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Time ______ over. We ______ fifty applications in all.",
+        "options": [
+            "Is / received",
+            "Is / have received",
+            "Was / had been receiving",
+            "Had been / received"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "When the young scouts ______ the top of the hill, they ______ for more than an hour.",
+        "options": [
+            "Will have reached / are walking",
+            "Had reached / were walking",
+            "Reach / will have been walking",
+            "Reached / have been walking"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The package ______ (arrive) at nine in the morning, the day after tomorrow.",
+        "options": [
+            "Would arrive",
+            "Can arrive",
+            "Cannot arrive",
+            "Will arrive"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "He ______ to unlock the door to his flat because the telephone ______.",
+        "options": [
+            "Hurries / has been ringing",
+            "Was hurrying / rang",
+            "Hurried / was ringing",
+            "Is hurrying / rings"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The peak ______ the prize for mountaineers, especially if it ______ before.",
+        "options": [
+            "Was, had not been attained",
+            "Will be, wasn't attained",
+            "Has been, weren't attained",
+            "Is, has not been attained"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The young soldier ______ that he ______ in the battle.",
+        "options": [
+            "Fears / is killed",
+            "Will fear / would be killed",
+            "Feared / was killed",
+            "Fears / will be killed"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "By the time we ______ our preparations for the congress, most of the participants ______ at the hall.",
+        "options": [
+            "Finished / had arrived",
+            "Finished / have arrived",
+            "Will have finished / arrive",
+            "Have finished / had arrived"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I ______ glasses when I was younger, but now I ______ contact lenses.",
+        "options": [
+            "Wore / have",
+            "Was wearing / have had",
+            "Have worn / am having",
+            "Have been wearing / had"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "You ______ for being late to the party.",
+        "options": [
+            "Will regret",
+            "Will be regretting",
+            "Regret",
+            "Have been regretting"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I ______ my foot playing tennis last week, and now I can hardly walk.",
+        "options": [
+            "Injured",
+            "Was injuring",
+            "Injure",
+            "Have injured"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "It ______ a nice day, therefore we went swimming.",
+        "options": [
+            "Was",
+            "Has been",
+            "Had been",
+            "Would be"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I ______ late for school again this morning. The teacher was not happy.",
+        "options": [
+            "Arrive",
+            "Am arriving",
+            "Have arrived",
+            "Arrived"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I ______ tennis yesterday.",
+        "options": [
+            "Will play",
+            "Have played",
+            "Play",
+            "Played"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Babies ______ when they are hungry.",
+        "options": [
+            "Cry",
+            "Cries",
+            "Cried",
+            "Are crying"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Sorry, you can't borrow my pencil. I ______ it myself.",
+        "options": [
+            "Am using",
+            "Use",
+            "Was using",
+            "Using"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I couldn't find out what ______.",
+        "options": [
+            "Will happen",
+            "Happens",
+            "Had happened",
+            "Has happened"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "One important field in which the laser ______ many applications ______ communication.",
+        "options": [
+            "Have / is",
+            "Does / are",
+            "Was / are",
+            "Has / is"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "______ a new computer. Do you want to see it?",
+        "options": [
+            "I was buying",
+            "I bought",
+            "I buy",
+            "I have bought"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The orders were that we ______ the area within hours to prevent further loss of life.",
+        "options": [
+            "Had evacuated",
+            "Had to evacuate",
+            "Will have evacuated",
+            "Have to evacuate"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Although manufacturers ______ electric cars as prototypes for a number of years now, it will be a long time before they ______ common.",
+        "options": [
+            "Are producing / became",
+            "Produce / will become",
+            "Produced / are becoming",
+            "Have been producing / become"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Next weekend, I ______ my proficiency exam, so I ______ more or less 300 questions so far.",
+        "options": [
+            "Am to have /will have finished",
+            "Am going to have / finished",
+            "Am having / will have finished",
+            "Am to have / finish"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "NO NEWS ______ GOOD NEWS.",
+        "options": [
+            "IS",
+            "ARE",
+            "HAD",
+            "HAS"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Whoever ______ the cooking ______ a great deal of work to do.",
+        "options": [
+            "Has done / has",
+            "Do / has",
+            "Is doing / had",
+            "Does / had had"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "They ______ so many hotels in the region in recent years that gradually they ______ the natural beauty of the area.",
+        "options": [
+            "Will built / have been destroying",
+            "Were building / destroy",
+            "Are building / have destroyed",
+            "Have built / are destroying"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The domestic cat ______ related to the lion and the tiger.",
+        "options": [
+            "Be",
+            "Has been",
+            "Is",
+            "Is being"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "We have exciting news to share!\nOur school ______ first place in the regional science fair.",
+        "options": [
+            "Has been awarded",
+            "Was awarded",
+            "Awarded",
+            "Had awarded"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "My mother ______ her optician tomorrow because her eyesight ______ worse since she got this computing job.",
+        "options": [
+            "Visits / becomes",
+            "Will visiting / had become",
+            "Has visited / is becoming",
+            "Is visiting / has become"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The athletes ______ for exactly three months by the time the races ______ due to start.",
+        "options": [
+            "Had trained / have been",
+            "Will have been training / are",
+            "Have been training / will be",
+            "Are training / were"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "These days, people who ______ manual work, often receive far more money than clerks who ______ in offices.",
+        "options": [
+            "Are doing, are working",
+            "Do, work",
+            "Were doing, were working",
+            "Have done, have worked"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "It's only the second time, I ______ a football match in a stadium.",
+        "options": [
+            "Will see",
+            "See",
+            "Have seen",
+            "Saw"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "When we ______ the forest, it ______ darker.",
+        "options": [
+            "Arrived / was getting",
+            "Arrive / is getting",
+            "Have arrived / has been getting",
+            "Arrive / has been getting"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I couldn't find out what ______.",
+        "options": [
+            "Will happen",
+            "Happens",
+            "Had happened",
+            "Has happened"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Fill in the blank by choosing the correct option to complete the sentence to update the result of the regional science fair:\nWe have exciting news to share!\nOur school ______ first place in the regional science fair.",
+        "options": [
+            "Has been awarded",
+            "Was awarded",
+            "Awarded",
+            "Had awarded"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "You ______ for being late to the party.",
+        "options": [
+            "Will regret",
+            "Will be regretting",
+            "Regret",
+            "Have been regretting"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Look at the drunken driver at the end of street! He ______ an accident.",
+        "options": [
+            "Is having",
+            "Is going to have",
+            "Has",
+            "Will have"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "These days, people who ______ manual work, often receive far more money than clerks who ______ in offices.",
+        "options": [
+            "Are doing, are working",
+            "Do, work",
+            "Were doing, were working",
+            "Have done, have worked"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "I expect you ______ from school by this time next year and ______ for a job.",
+        "options": [
+            "Are graduating / have been looking",
+            "Have graduated / will have looked",
+            "Will have graduated / will be looking",
+            "Graduate / will have been looking"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Anyas ______ (eat) all the chocolates kept in the tray.",
+        "options": [
+            "Eaten",
+            "Have eaten",
+            "Eating",
+            "Ate"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "They ______ so many hotels in the region in recent years that gradually they ______ the natural beauty of the area.",
+        "options": [
+            "Will built / have been destroying",
+            "Were building / destroy",
+            "Are building / have destroyed",
+            "Have built / are destroying"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Complete the line in this poem by filling in the blank with the correct option.\nThe world is transforming at a rapid pace\nWith rising technology and heaps of e-waste.\nNations today are ______ in a rat race\nFor producing more radioactive waste.",
+        "options": [
+            "Caught up",
+            "Caught",
+            "Catching",
+            "Catching up"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I ______ a brace on my teeth as a child, but I didn't like it.",
+        "options": [
+            "Was wearing",
+            "Have worn",
+            "Wore",
+            "Am wearing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "She ______ in the middle of his speech.",
+        "options": [
+            "Broke",
+            "Broke down",
+            "Broke out",
+            "Broke with"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Complete the given narrative, by filling in the blanks with the correct option:\nNO NEWS ______ GOOD NEWS.",
+        "options": [
+            "IS",
+            "ARE",
+            "HAD",
+            "HAS"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The swimmer ______ to be in difficulty, but he ______ to reach the shore in the end.",
+        "options": [
+            "Seemed / has managed",
+            "Seemed / managed",
+            "Has seemed / managed",
+            "Seems / manages"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "A few years ago it ______ that certain cells of human body never ______.",
+        "options": [
+            "Has been found, died",
+            "Was found, die",
+            "Had been found, dies",
+            "Is found, died"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Last week was very wet, but it ______ once yet this week.",
+        "options": [
+            "Did not rain",
+            "Have not rained",
+            "Is not raining",
+            "Has not rained"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Complete the given narrative by filling in the blank with the correct option:\nWhen I was a very young girl, ______ grocery shopping was considered a major outing for me.",
+        "options": [
+            "To be going",
+            "Going",
+            "Went",
+            "Having gone"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Complete the given narrative by filling in the blank with the correct option:\nIt has been two weeks, but the team has still not ______ from its defeat.",
+        "options": [
+            "Got in",
+            "Got along",
+            "Got over",
+            "Got about"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "What ______ about the plan to shorten the school holidays?",
+        "options": [
+            "Do you think",
+            "Will you think",
+            "You think",
+            "Are you think"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "How bad that game is! I'm sure our team ______ in this match.",
+        "options": [
+            "Is being beaten",
+            "Is going to be beaten",
+            "Will have been beaten",
+            "Is beaten"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The orders were that we ______ the area within hours to prevent further loss of life.",
+        "options": [
+            "Had evacuated",
+            "Had to evacuate",
+            "Will have evacuated",
+            "Have to evacuate"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Some of the workers ______ the peaches while the others ______ them in wooden boxes.",
+        "options": [
+            "Are picking / will place",
+            "Have been picking / placed",
+            "Were picking / were placing",
+            "Picked / have been placing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Until the tap water ______ back on yesterday evening, we ______ water back and forth for three days.",
+        "options": [
+            "Came / had been carrying",
+            "Was coming / will have carried",
+            "Had come / were carrying",
+            "Has come / have been carrying"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Tim was very upset yesterday because he ______ that he ______ his wallet.",
+        "options": [
+            "Realised, will lose",
+            "Realises, loses",
+            "Realised, had lost",
+            "Had realised, lost"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "I ______ some wood for the fire while you ______ the salad.",
+        "options": [
+            "Will fetch / prepare",
+            "Was fetching / have prepared",
+            "Have fetched / prepared",
+            "Fetch / are preparing"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "As my son ______ down by the river, I ______ his room thoroughly.",
+        "options": [
+            "Has fished / clean",
+            "Was fishing / cleaned",
+            "Fishes / have cleaned",
+            "Is fishing / cleaned"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "She says that she ______ the eight o'clock train tomorrow, but I'm sure she ______ it, as usual.",
+        "options": [
+            "Is going to catch / will miss",
+            "Will have caught / has missed",
+            "Has caught / misses",
+            "Is catching / is missing"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "When we ______ the forest, it ______ darker.",
+        "options": [
+            "Arrived / was getting",
+            "Arrive / is getting",
+            "Have arrived / has been getting",
+            "Arrive / has been getting"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Environmental pollution ______ ever since people ______ to congregate in towns and cities.",
+        "options": [
+            "Exist / have begun",
+            "Had existed / were beginning",
+            "Will have existed / are beginning",
+            "Has existed / began"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The last time we ______ dinner with them, they ______ for a new house.",
+        "options": [
+            "Had / were looking",
+            "Have been having / look",
+            "Were having / have been looking",
+            "Have had / looked"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "For the time being, we ______ for the exam, but this time tomorrow we ______ the best movie of this year.",
+        "options": [
+            "Have studied, will be watching",
+            "Study, will watch",
+            "Are studying, will be watching",
+            "Are studying, will have watched"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Things have certainly changed; there ______ lots of small old houses around here when I ______ young.",
+        "options": [
+            "Used to be / was",
+            "Would be / was",
+            "Are / have been",
+            "Were / would have been"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "A new hotel ______ in the centre of town.",
+        "options": [
+            "Is being built",
+            "Built",
+            "Is building",
+            "Is built"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "It's only the second time, I ______ a football match in a stadium.",
+        "options": [
+            "Will see",
+            "See",
+            "Have seen",
+            "Saw"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "I bought a new computer last week, but it ______ so I took it back to the shop.",
+        "options": [
+            "Don't work",
+            "Didn't work",
+            "Hasn't worked",
+            "Worked not"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "I ______ my book in the launderette while my washing ______.",
+        "options": [
+            "Have read / is drying",
+            "Read / was drying",
+            "Was reading / has dried",
+            "Have read / dries"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Since he woke up he ______.",
+        "options": [
+            "Has been studying",
+            "Has been study",
+            "Had studied",
+            "Is studying"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The athletes ______ for exactly three months by the time the races ______ due to start.",
+        "options": [
+            "Had trained / have been",
+            "Will have been training / are",
+            "Have been training / will be",
+            "Are training / were"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The peak ______ the prize for mountaineers, especially if it ______ before.",
+        "options": [
+            "Was, had not been attained",
+            "Will be, wasn't attained",
+            "Has been, weren't attained",
+            "Is, has not been attained"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Governments are starting programmes ______ (teach) adults how to read and write.",
+        "options": [
+            "Which taught",
+            "Were teaching",
+            "That teaching",
+            "To teach"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Complete the given narrative by filling in the blank with the correct option:\nThe domestic cat ______ related to the lion and the tiger.",
+        "options": [
+            "Be",
+            "Has been",
+            "Is",
+            "Is being"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Although manufacturers ______ electric cars as prototypes for a number of years now, it will be a long time before they ______ common.",
+        "options": [
+            "Are producing / became",
+            "Produce / will become",
+            "Produced / are becoming",
+            "Have been producing / become"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The football team that ______ last year's championship ______ little chance of winning it again this year.",
+        "options": [
+            "Was going to win / stand",
+            "Won / stands",
+            "Has won / has stood",
+            "Was winning / stood"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "She had been trying to learn how to use a computer ______ as long as she lived here ______ she gave up because of her illness.",
+        "options": [
+            "Before / for",
+            "For / when",
+            "Till / before",
+            "So / until"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The weather conditions ______ throughout the day and now the ground officials are confident that the championship game ______ ahead.",
+        "options": [
+            "Are improving / has gone",
+            "Have been improving / will go",
+            "Will be improving / will go",
+            "Have improved / was going"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "As he ______ the party, a strange man ______ him.",
+        "options": [
+            "Left / has been approaching",
+            "Leaves / was approaching",
+            "Was leaving / approached",
+            "Is leaving / has approached"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "He is the man about whom we ______ so much.",
+        "options": [
+            "Heard",
+            "Have heard",
+            "Had heard",
+            "Would have heard"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "No English teacher ______ to the school till nowadays.",
+        "options": [
+            "Was appointed",
+            "Were appointed",
+            "Had been appointed",
+            "Has been appointed"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "When I was ten years old, I ______ speak three languages.",
+        "options": [
+            "Could",
+            "Ought to",
+            "Would",
+            "Will"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I ______ anything since breakfast so I feel very thirsty now.",
+        "options": [
+            "Do not drink",
+            "Was not drinking",
+            "Have not drunk",
+            "Did not drink"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "One important field in which the laser ______ many applications ______ communication.",
+        "options": [
+            "Have / is",
+            "Does / are",
+            "Was / are",
+            "Has / is"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Mother ______ Ali that he ______ to clean the garage after school.",
+        "options": [
+            "Had reminded, promised",
+            "Has reminded, promises",
+            "Reminded, will promise",
+            "Reminded, had promised"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "While my parents ______ in the shopping centre, a thief ______ into their car for the radio.",
+        "options": [
+            "Have shopped / breaks",
+            "Are shopping / was breaking",
+            "Were shopping / broke",
+            "Shopped / has broken"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Complete the given narrative by filling in the blank with the correct option:\nThe students ______ to participate in the workshop, and submit a report at the end of the day to the English teacher.",
+        "options": [
+            "Had been asked",
+            "Were ask",
+            "Were asked",
+            "Will have asked"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "My mother ______ her optician tomorrow because her eyesight ______ worse since she got this computing job.",
+        "options": [
+            "Visits / becomes",
+            "Will visiting / had become",
+            "Has visited / is becoming",
+            "Is visiting / has become"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "She invited me to dinner. But it ______ two years since I ______ to her house. So I lost my way.",
+        "options": [
+            "Was, had gone",
+            "Had been, went",
+            "Is, went",
+            "Is, have been"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "It was only after she ______ English that she ______ to make some foreign friends.",
+        "options": [
+            "Learnt / had started",
+            "Had learnt / started",
+            "Was learning / started",
+            "Learnt / would start"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "During the summer months, the monastery ______ very busy, for it is visited by thousands of people who ______ the pass in cars.",
+        "options": [
+            "Is, cross",
+            "Was, crossed",
+            "Has been, cross",
+            "Is, crossed"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "My father ______ English at all although he ______ it for three years when he was in high school.",
+        "options": [
+            "Isn't speaking / has studied",
+            "Wasn't speaking / is studying",
+            "Hasn't been speaking / studies",
+            "Doesn't speak / studied"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Next weekend, I ______ my proficiency exam, so I ______ more or less 300 questions so far.",
+        "options": [
+            "Am to have / will have finished",
+            "Am going to have / finished",
+            "Am having / will have finished",
+            "Am to have / finish"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "I ______ glasses when I was younger, but now I ______ contact lenses.",
+        "options": [
+            "Wore / have",
+            "Was wearing / have had",
+            "Have worn / am having",
+            "Have been wearing / had"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "______ and ______ me about your trip to Denver.",
+        "options": [
+            "Having sat down, told",
+            "Sitting down, telling",
+            "Sitting down, tell",
+            "Sit down, tell"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Babies ______ when they are hungry.",
+        "options": [
+            "Cry",
+            "Cries",
+            "Cried",
+            "Are crying"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "The boy ______ (realize) his mistake when he reached the end of his journey.",
+        "options": [
+            "Has realized",
+            "Realizing",
+            "Realized",
+            "Can realize"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "As the President ______ the hall, all the guests ______ to their feet to welcome him.",
+        "options": [
+            "Is entering / rise",
+            "Entered / rose",
+            "Was entering / have risen",
+            "Has entered / were rising"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Complete the given narrative by filling in the blank with the correct option:\nWhen he ______ is not known.",
+        "options": [
+            "Arrived",
+            "Will have arrived",
+            "Has arrived",
+            "will arrive"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I ______ my foot playing tennis last week, and now I can hardly walk.",
+        "options": [
+            "Injured",
+            "Was injuring",
+            "Injure",
+            "Have injured"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "It seems that somebody ______ to my father before the meeting, complaining that I ______ late for school four times last week.",
+        "options": [
+            "Has written / have been",
+            "Had written / was",
+            "Writes / was",
+            "Wrote / would be"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Whoever ______ the cooking ______ a great deal of work to do.",
+        "options": [
+            "Has done / has",
+            "Do / has",
+            "Is doing / had",
+            "Does / had had"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "I went to the dance school last Friday, but I ______ it very much.",
+        "options": [
+            "Haven't enjoyed",
+            "Didn't enjoyed",
+            "Don't enjoy",
+            "Didn't enjoy"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The package ______ (arrive) at nine in the morning, the day after tomorrow.",
+        "options": [
+            "Would arrive",
+            "Can arrive",
+            "Cannot arrive",
+            "Will arrive"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The committee is determined not to leave ______ they have finished the project.",
+        "options": [
+            "Just as",
+            "By the time",
+            "Since",
+            "Until"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I ______ tennis yesterday.",
+        "options": [
+            "Will play",
+            "Have played",
+            "Play",
+            "Played"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "When a satellite ______ (launch), the rocket begins by going slowly upwards.",
+        "options": [
+            "Were launched",
+            "Is launched",
+            "Have been launched",
+            "Are launched"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "For a hundred years or so some critics ______ that poetry is dying, and all that time poets ______ poems that later generations recognize as great.",
+        "options": [
+            "Maintain, are writing",
+            "Maintained, wrote",
+            "Have maintained, have been writing",
+            "Had maintained, were writing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "I ______ late for school again this morning. The teacher was not happy.",
+        "options": [
+            "Arrive",
+            "Am arriving",
+            "Have arrived",
+            "Arrived"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nWe ______ each other for the past ten years. (know)",
+        "options": [
+            "Are knowing",
+            "Had known",
+            "Know",
+            "Have known"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I ______ (see) a wonderful film in the cinema last night.",
+        "options": [
+            "Seen",
+            "Have seen",
+            "See",
+            "Saw"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nChildren were making a noise in the class.",
+        "options": [
+            "Past Continuous",
+            "Past Perfect",
+            "Past Indefinite",
+            "Past Perfect Continuous"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "At this time tomorrow, Jason ______ in Paris.",
+        "options": [
+            "Was",
+            "Shall be",
+            "Were",
+            "Will be"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the correct present continuous or perfect continuous form of the verb to complete the sentence:\nBharti ______ yoga classes these days.",
+        "options": [
+            "Has attending",
+            "Is attending",
+            "Has been attending",
+            "Attending"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the appropriate tense:\nThere are a lot of clouds! It is going to ______ soon.",
+        "options": [
+            "It rains",
+            "Rain",
+            "Raining",
+            "Rains"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Fill in the blank with the Present Perfect Continuous Tense of the verb given in bracket.\nI ______ in this flat since 2000. (live)",
+        "options": [
+            "Had been living",
+            "Have living",
+            "Has been living",
+            "Have been living"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "The judge ______ his verdict.",
+        "options": [
+            "Is announce",
+            "Was announce",
+            "Announced",
+            "Announce"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the correct option for tense:\nDon't disturb your dad. He ______ about serious problems at his office.",
+        "options": [
+            "Is thinking",
+            "Think",
+            "Thought",
+            "Had been thinking"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the correct option for tense:\nThe train ______ yet.",
+        "options": [
+            "Had not arrived",
+            "Did not arrive",
+            "Has not arrived",
+            "Will not arrive"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nI have been waiting for the bus since morning.",
+        "options": [
+            "Present Continuous",
+            "Present Perfect Continuous",
+            "Present Indefinite",
+            "Present Perfect"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Find the error: Economists have predicted that the country's economic growth falls low to eight percent this year.",
+        "options": [
+            "The country's economic growth",
+            "Falls low to eight per cent this year.",
+            "No error",
+            "Economists have predicted that"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the past continuous form of the verb to complete the sentence:\nHe ______ bubbling with joy today.",
+        "options": [
+            "Was",
+            "Were",
+            "Will be",
+            "Shall be"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the correct option for tense:\nWhy are you ______ so fast?",
+        "options": [
+            "Running",
+            "Runs",
+            "Is running",
+            "Run"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nHas she not yet finished her work?",
+        "options": [
+            "Present Perfect Continuous",
+            "Present Perfect",
+            "Present Indefinite",
+            "Present Continuous"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "The policeman ______ him.",
+        "options": [
+            "Was rescue",
+            "Rescue",
+            "Rescued",
+            "Was rescued"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Rohit was absent in last class.",
+        "options": [
+            "Present Continuous",
+            "Future Simple",
+            "Present Perfect",
+            "Past Simple"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the correct option for tense:\nWe ______ recently ______ to a new house.",
+        "options": [
+            "Do, shifting",
+            "Will, shift",
+            "Are, shifting",
+            "Have, shifted"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nThe mother cooks food for us.",
+        "options": [
+            "Present Continuous",
+            "Present tense",
+            "Present Perfect Continuous",
+            "Present Perfect"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the correct option for tense:\nOne day he ______ into a hotel in Shillong, a beautiful city in Meghalaya.",
+        "options": [
+            "Booking",
+            "Had booked",
+            "Booked",
+            "Was booking"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the appropriate tense:\nAfter Larry ______ the film on TV, he decided to buy the book.",
+        "options": [
+            "Has seen",
+            "To seen",
+            "Had seen",
+            "To see"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nThey ______ when the thief entered the bedroom. (sleep)",
+        "options": [
+            "Are sleeping",
+            "Were sleeping",
+            "Slept",
+            "Sleep"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the appropriate tense:\nShe ______ to come to the party.",
+        "options": [
+            "Refused",
+            "Will be refuse",
+            "Refuse",
+            "Will refuse"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the correct option for the present tense:\nDo you ______ the day we moved the piano upstairs?",
+        "options": [
+            "Remembers",
+            "Remember",
+            "Are remembering",
+            "Remembered"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the appropriate tense:\nShe ______ her entire childhood in the woods.",
+        "options": [
+            "Shall be",
+            "Spent",
+            "Will be",
+            "Spend"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the appropriate tense:\nMy mother ______ since 5 o'clock.",
+        "options": [
+            "Cleaned",
+            "Is cleaning",
+            "Have clean",
+            "Will clean"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nIt has not been raining since midnight.",
+        "options": [
+            "Present Perfect",
+            "Present Continuous",
+            "Present Indefinite",
+            "Present Perfect Continuous"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I was angry that I ______ (make) such a stupid mistake.",
+        "options": [
+            "Has made",
+            "Have made",
+            "Had made",
+            "Am making"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nThe bus ______ round the corner. (come)",
+        "options": [
+            "Came",
+            "Comes",
+            "Is coming",
+            "Had come"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the correct option for tense:\nMy father ______ from his office in the evening.",
+        "options": [
+            "Returned",
+            "Come",
+            "Return",
+            "Returns"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the appropriate tense:\nWhen Diya got the call, she ______ in her office.",
+        "options": [
+            "Work",
+            "Was working",
+            "Worked",
+            "Will be"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the correct option for tense:\nThe ministry of education ______ some new policies recently.",
+        "options": [
+            "Form",
+            "Formed",
+            "Had formed",
+            "Has formed"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Find the error: I missed the last bus which I usually catch and have to stay back at the bus stop last night.",
+        "options": [
+            "At the bus stop last night.",
+            "I missed the last bus which I usually catch",
+            "And have to stay back",
+            "No error"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the appropriate tense:\nShruti ______ to study now.",
+        "options": [
+            "Will",
+            "Is going",
+            "Going",
+            "Gone"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the correct option for tense:\nRosa ______ double consonants so far.",
+        "options": [
+            "Not learned",
+            "Shall not learn",
+            "Does not learn",
+            "Has not learnt"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the appropriate tense:\nThe policeman ______ him.",
+        "options": [
+            "Rescue",
+            "Will rescue",
+            "Rescued",
+            "Was rescued"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the correct option for tense:\nThe mother ______ food for us.",
+        "options": [
+            "Cooks",
+            "Cook",
+            "Cooking",
+            "Cooked"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the answer that tells what tense is used in the given sentence:\nThe No.41 bus goes to the zoo.",
+        "options": [
+            "Future",
+            "Present perfect",
+            "Present",
+            "Past"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the correct option for tense:\nI ______ in Model Town.",
+        "options": [
+            "Living",
+            "Lives",
+            "Live",
+            "Lived"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "The climate in our city ______ warmer.",
+        "options": [
+            "Is becoming",
+            "Was become",
+            "Become",
+            "Becoming"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the appropriate tense:\nThe mobile ______ twice before I picked it up.",
+        "options": [
+            "Is ringing",
+            "Was ringing",
+            "Ringing",
+            "Rang"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the appropriate tense:\nReema has just ______ her work.",
+        "options": [
+            "Finish",
+            "Are finishing",
+            "Finished",
+            "No finish"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nWe saw the airplane while it was taking off.",
+        "options": [
+            "Past Perfect Continuous",
+            "Past Continuous",
+            "Past Indefinite",
+            "Past Perfect"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nThe storm has been howling since 4 O'clock.",
+        "options": [
+            "Present Perfect",
+            "Present Perfect Continuous",
+            "Present Indefinite",
+            "Present Continuous"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the correct option for tense:\nHe ______ the Bharat Ratna award. He was the best.",
+        "options": [
+            "Deserve",
+            "Deserved",
+            "Is deserving",
+            "Has been deserving"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "He ______ by herself since his divorce.",
+        "options": [
+            "Is living",
+            "Was living",
+            "Had been living",
+            "Has been living"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "I predict that by 2020, man ______ (land) on Mars.",
+        "options": [
+            "Will be landing",
+            "Will be land",
+            "Will land",
+            "Will have landed"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nWhile Radha is buying new clothes, her fashion consultant is busy on the sidelines, recommending stripes and long kurtas to minimize the bulge factor.",
+        "options": [
+            "Simple Present",
+            "Present Continuous",
+            "Present Perfect Continuous",
+            "Present Perfect"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Find the error: Some people get used to changes very easily than others do.",
+        "options": [
+            "Some people get",
+            "Than others do",
+            "No error",
+            "Used to changes very easily"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "They ______ in an apartment right now because they can't find a cheap house.",
+        "options": [
+            "Had been living",
+            "Were living",
+            "Have been living",
+            "Are living"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nReema has been warning Shyam for years about his smoking habits, but he just won't listen.",
+        "options": [
+            "Past Continuous",
+            "Present perfect",
+            "Present Perfect Continuous",
+            "Simple past"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the appropriate tense:\nRaghu ______ a lot in Asia.",
+        "options": [
+            "Travel",
+            "Travelling",
+            "Travelled",
+            "Was travelled"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the correct option for tense:\nJoe's cat ______ into the river yesterday.",
+        "options": [
+            "Is falling",
+            "Have fallen",
+            "Fell",
+            "Was falling"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nOur examination ______ on 4th March. (begin)",
+        "options": [
+            "Is beginning",
+            "Began",
+            "Begins",
+            "Has begun"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nA moment ago, I ______ strange news. (hear)",
+        "options": [
+            "Hear",
+            "Have heard",
+            "Heard",
+            "Am hearing"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the correct option for tense:\nAryan ______ his mother in making rangoli in the yard for the last one hour.",
+        "options": [
+            "Has been helping",
+            "Is helping",
+            "Helps",
+            "Has helped"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the correct tense:\nIndia ______ the one-day match yesterday.",
+        "options": [
+            "Had won",
+            "Win",
+            "Wins",
+            "Won"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the correct present perfect or simple past form of the verb:\nI ______ an accident today, I don't know the man.",
+        "options": [
+            "See",
+            "Saw",
+            "Had seen",
+            "Has seen"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Find the error: Shivam takes charge of the project within a few days of appointment.",
+        "options": [
+            "No error",
+            "Shivam takes charge of",
+            "Of appointment.",
+            "The project within a few days"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the correct present continuous or perfect continuous form of the verb to complete the sentence:\nShobhita ______ for a month because of skin allergy.",
+        "options": [
+            "Has not swim",
+            "Is not swimming",
+            "Swimming",
+            "Has not been swimming"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the correct option for tense:\nThe criminal ______ the place before the police could reach.",
+        "options": [
+            "Will escape",
+            "Is escaping",
+            "Was escaping",
+            "Had escaped"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nHe calls on me whenever he wants.",
+        "options": [
+            "Present Continuous Tense",
+            "Present Perfect Continuous Tense",
+            "Present Tense",
+            "Present Perfect Tense"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Choose the appropriate tense:\nI ______ for my girlfriend for two hours.",
+        "options": [
+            "Am waiting",
+            "Have been waiting",
+            "To wait",
+            "Have waiting"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the correct option for tense:\nWater ______ from the running tap.",
+        "options": [
+            "Is flowing",
+            "Are flowing",
+            "Are flow",
+            "Flow"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the appropriate tense:\nI ______ my friend yesterday.",
+        "options": [
+            "Soon",
+            "Meet",
+            "Will meet",
+            "Met"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nI ______ a letter to her yesterday. (send)",
+        "options": [
+            "Have sent",
+            "Sent",
+            "Had sent",
+            "Was sending"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "He stole my pen last night.",
+        "options": [
+            "Present Continuous",
+            "Future Simple",
+            "Present Perfect",
+            "Past Simple"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the correct present perfect or simple past form of the verb:\nJanak ______ the king of the city of Mithila.",
+        "options": [
+            "Had been",
+            "Has been",
+            "Is",
+            "Was"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the appropriate tense:\nRam ______ the poor.",
+        "options": [
+            "Helped",
+            "Helping",
+            "Will help",
+            "Help"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Choose the correct option for tense:\nThe bus ______ the stop before we could catch it.",
+        "options": [
+            "Has leave",
+            "Had left",
+            "Leave",
+            "Left"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the appropriate tense:\nAt this time tomorrow, Jason ______ in Paris.",
+        "options": [
+            "Were",
+            "Will be",
+            "Was",
+            "Went"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Choose the appropriate tense:\nI ______ to park.",
+        "options": [
+            "Would",
+            "Won't",
+            "Will",
+            "Did not go"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Identify the correct tense for the given sentence:\nReema had prepared an acceptance speech, but the Leader of the Year title went to Henna instead.",
+        "options": [
+            "Past Perfect Continuous",
+            "Past Continuous",
+            "Simple Past",
+            "Past Perfect"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the proper tense or form of the verb given in brackets:\nThey ______ to London next year. (go)",
+        "options": [
+            "Go",
+            "Went",
+            "Had gone",
+            "Are going"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Choose the appropriate tense:\nMy grandfather ______ to go fishing with me already.",
+        "options": [
+            "Will agree",
+            "Agreed",
+            "Was agreed",
+            "Agree"
+        ],
+        "answer": 1
+    }
+]

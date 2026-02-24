@@ -1,0 +1,39 @@
+python3 - <<'EOF'
+import json, os
+
+FILE_NAME = "set.json"
+QUESTIONS_PER_SET = 25  
+
+if not os.path.exists(FILE_NAME):
+    print(f"❌ Error: {FILE_NAME} not found.")
+else:
+    with open(FILE_NAME, "r", encoding="utf-8") as f:
+        questions = json.load(f)
+
+    total_questions = len(questions)
+    # This formula handles remainders correctly (e.g., 26 questions becomes 2 sets)
+    total_sets = (total_questions + QUESTIONS_PER_SET - 1) // QUESTIONS_PER_SET
+    
+    print(f"📦 Total questions: {total_questions}")
+
+    for i in range(total_sets):
+        subset = questions[i*QUESTIONS_PER_SET : (i+1)*QUESTIONS_PER_SET]
+        
+        # Updated to lowercase 'set' and removed the underscore
+        file_name = f"set{i+1}.json"
+        
+        with open(file_name, "w", encoding="utf-8") as f:
+            f.write("[\n")
+            for index, q in enumerate(subset):
+                # Compact one-line JSON formatting
+                line = json.dumps(q, ensure_ascii=False, separators=(',', ':'))
+                f.write(f"  {line}")
+                
+                if index < len(subset) - 1:
+                    f.write(",\n")
+                else:
+                    f.write("\n")
+            f.write("]")
+
+    print(f"✅ Success! Created {total_sets} files (set1.json to set{total_sets}.json).")
+EOF
