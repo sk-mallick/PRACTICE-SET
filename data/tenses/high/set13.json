@@ -1,0 +1,22 @@
+[
+  {"q":"Choose the appropriate tense:\nWhen Diya got the call, she ______ in her office.","options":["Work","Was working","Worked","Will be"],"answer":1},
+  {"q":"Choose the correct option for tense:\nThe ministry of education ______ some new policies recently.","options":["Form","Formed","Had formed","Has formed"],"answer":3},
+  {"q":"Find the error: I missed the last bus which I usually catch and have to stay back at the bus stop last night.","options":["At the bus stop last night.","I missed the last bus which I usually catch","And have to stay back","No error"],"answer":2},
+  {"q":"Choose the appropriate tense:\nShruti ______ to study now.","options":["Will","Is going","Going","Gone"],"answer":1},
+  {"q":"Choose the correct option for tense:\nRosa ______ double consonants so far.","options":["Not learned","Shall not learn","Does not learn","Has not learnt"],"answer":3},
+  {"q":"Choose the appropriate tense:\nThe policeman ______ him.","options":["Rescue","Will rescue","Rescued","Was rescued"],"answer":2},
+  {"q":"Choose the correct option for tense:\nThe mother ______ food for us.","options":["Cooks","Cook","Cooking","Cooked"],"answer":0},
+  {"q":"Choose the answer that tells what tense is used in the given sentence:\nThe No.41 bus goes to the zoo.","options":["Future","Present perfect","Present","Past"],"answer":2},
+  {"q":"Choose the correct option for tense:\nI ______ in Model Town.","options":["Living","Lives","Live","Lived"],"answer":2},
+  {"q":"The climate in our city ______ warmer.","options":["Is becoming","Was become","Become","Becoming"],"answer":0},
+  {"q":"Choose the appropriate tense:\nThe mobile ______ twice before I picked it up.","options":["Is ringing","Was ringing","Ringing","Rang"],"answer":3},
+  {"q":"Choose the appropriate tense:\nReema has just ______ her work.","options":["Finish","Are finishing","Finished","No finish"],"answer":2},
+  {"q":"Identify the correct tense for the given sentence:\nWe saw the airplane while it was taking off.","options":["Past Perfect Continuous","Past Continuous","Past Indefinite","Past Perfect"],"answer":2},
+  {"q":"Identify the correct tense for the given sentence:\nThe storm has been howling since 4 O'clock.","options":["Present Perfect","Present Perfect Continuous","Present Indefinite","Present Continuous"],"answer":1},
+  {"q":"Choose the correct option for tense:\nHe ______ the Bharat Ratna award. He was the best.","options":["Deserve","Deserved","Is deserving","Has been deserving"],"answer":1},
+  {"q":"He ______ by herself since his divorce.","options":["Is living","Was living","Had been living","Has been living"],"answer":3},
+  {"q":"I predict that by 2020, man ______ (land) on Mars.","options":["Will be landing","Will be land","Will land","Will have landed"],"answer":3},
+  {"q":"Identify the correct tense for the given sentence:\nWhile Radha is buying new clothes, her fashion consultant is busy on the sidelines, recommending stripes and long kurtas to minimize the bulge factor.","options":["Simple Present","Present Continuous","Present Perfect Continuous","Present Perfect"],"answer":1},
+  {"q":"Find the error: Some people get used to changes very easily than others do.","options":["Some people get","Than others do","No error","Used to changes very easily"],"answer":3},
+  {"q":"They ______ in an apartment right now because they can't find a cheap house.","options":["Had been living","Were living","Have been living","Are living"],"answer":3}
+]

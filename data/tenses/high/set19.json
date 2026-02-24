@@ -1,0 +1,22 @@
+[
+  {"q":"Choose the answer that tells what tense is used in the given sentence:\nBill will sing with the choir.","options":["Present","Future","Past","Past perfect"],"answer":1},
+  {"q":"When Diya got the call, she ______ in her office.","options":["Working","Work","Will be","Was working"],"answer":3},
+  {"q":"Find the error: Do you know that it was I who has done this piece of beautiful work?","options":["Who has done","No error","Do you know that it was I","This piece of beautiful work"],"answer":0},
+  {"q":"Choose the correct option for tense:\nI ______ two cups of coffee this morning.","options":["Had","Have had","Am having","Will have"],"answer":1},
+  {"q":"Try this dessert and let me know how it ______.","options":["Will tasting","Tastes","Was tasting","Will taste"],"answer":1},
+  {"q":"Choose the correct option for tense:\nVaibhav ______ for the post of Assistant Manager this month.","options":["Applied","Apply","Has applied","Have applied"],"answer":2},
+  {"q":"Choose the proper tense or form of the verb given in brackets:\nI ______ this exercise by ten o'clock. (finish)","options":["Shall have finished","Finish","Finished","Have finished"],"answer":0},
+  {"q":"Choose the correct present continuous or perfect continuous form of the verb to complete the sentence:\nJuhi and her friend ______ for ten minutes.","options":["Have been gossiping","Is gossip","Gossiping","Has been gossiping"],"answer":0},
+  {"q":"Choose the appropriate tense:\nIt ______ every day in July.","options":["Raining","Rain","Is raining","Rained"],"answer":3},
+  {"q":"Find the error: His father died of cholera but his mother also though very weak, is out of danger.","options":["Though very weak, is out of danger","His father died of cholera","No error","But his mother also"],"answer":3},
+  {"q":"Choose the correct present perfect or simple past form of the verb:\nElizabeth ______ the Queen of England for many years and she is still the Queen.","options":["Has been","Had below","Was","Is"],"answer":0},
+  {"q":"Choose the appropriate tense:\nThey ______ living in this house since 2007.","options":["Move","Had","Have been","Have"],"answer":2},
+  {"q":"Choose the appropriate tense:\nTry this dessert and let me know how it ______.","options":["Tasting","Will taste","Tastes","Was tasting"],"answer":2},
+  {"q":"Choose the appropriate tense:\nHow many students in your class ______ from Korea?","options":["Are coming","Came","Comes","Come"],"answer":3},
+  {"q":"She ______ her entire childhood in the woods.","options":["Spend","Spent","Shall be","Will be"],"answer":1},
+  {"q":"Identify the correct tense for the given sentence:\nThe children are playing in the park.","options":["Present Continuous","Present Perfect","Present Simple","Present Perfect Continuous"],"answer":0},
+  {"q":"Choose the appropriate tense:\nJun-Sik ______ his teeth before breakfast every morning.","options":["Will cleaned","Is cleaning","Clean","Cleans"],"answer":3},
+  {"q":"Choose the proper tense or form of the verb given in brackets:\nI ______ not ______ the letter yet. (has, write)","options":["Had, written","Am, written","Was, written","Have, written"],"answer":3},
+  {"q":"Identify the correct tense for the given sentence:\nWhere have you lost your purse?","options":["Present Continuous","Present Perfect Continuous","Past Perfect","Present Perfect"],"answer":3},
+  {"q":"Choose the correct present perfect or simple past form of the verb to complete the sentence:\nHe ______ very little work today.","options":["Do","Had done","Done","Has done"],"answer":3}
+]

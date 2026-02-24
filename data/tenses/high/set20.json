@@ -1,0 +1,22 @@
+[
+  {"q":"Choose the appropriate tense:\nOnce there ______ a king.","options":["Living","Lived","Lives","Live"],"answer":1},
+  {"q":"Choose the appropriate tense:\nI ______ to visit yesterday, but you were not at home.","options":["Want","To want","To wanted","Wanted"],"answer":3},
+  {"q":"Identify the correct tense for the given sentence:\nMike had been skating on thin ice for two hours when he heard the first crack.","options":["Past Continuous","Simple Past","Past Perfect Continuous","Past Perfect"],"answer":2},
+  {"q":"The plane ______ (take off) in a few minutes.","options":["Took off","Is taking off","Take off","Will be taking off"],"answer":1},
+  {"q":"Fill in the blank with the Present Perfect Continuous Tense of the verb given in bracket.\nIt ______ for three hours. (rain)","options":["Had been raining","Has been raining","Has been rain","Have been raining"],"answer":1},
+  {"q":"He will have been teaching in this college after his PhD.","options":["Past Simple","Present Continuous","Future Simple","Future Perfect Continuous"],"answer":3},
+  {"q":"James ______ to the market yesterday.","options":["Went","Were","Is left","Is going"],"answer":0},
+  {"q":"Identify the correct tense for the given sentence:\nRita explained it to me in detail Yesterday.","options":["Past Perfect Continuous","Past Continuous","Simple Past","Past Perfect"],"answer":2},
+  {"q":"Choose the correct option for tense:\nThey ______ football every evening.","options":["Playing","Plays","Played","Play"],"answer":3},
+  {"q":"Choose the appropriate tense:\n______ many times every winter in Frankfurt.","options":["It is snow","It snows","It is snowing","It snowed"],"answer":1},
+  {"q":"Choose the answer that tells what tense is used in given sentence:\nI have not thought about it.","options":["Future","Present perfect","Past","Present"],"answer":1},
+  {"q":"Choose the appropriate tense:\nRema ______ with my sister yesterday.","options":["Playing","Play","Played","Will playing"],"answer":2},
+  {"q":"Find the error: Mr. Roy's youngest son is fond of playing a harmonium.","options":["Is fond of","Playing a harmonium","No error","Mr. Roy's youngest son"],"answer":1},
+  {"q":"Choose the appropriate tense:\nJames ______ to the market yesterday.","options":["Is left","Went","Is going","Go"],"answer":1},
+  {"q":"Identify the correct tense for the given sentence:\nSince when have you been reading in this school?","options":["Present Continuous","Present Indefinite","Present Perfect Continuous","Present Perfect"],"answer":2},
+  {"q":"Choose the appropriate tense:\nWe ______ TV when it started to rain.","options":["To watch","Was watched","Were wateched","Were watching"],"answer":3},
+  {"q":"Choose the correct option for tense:\nAkbar ______ the king at the age of fifteen after the sudden death of his father.","options":["Was becoming","Became","Had become","Become"],"answer":1},
+  {"q":"Choose the correct option for tense:\nThe rain ______ completely our day.","options":["Is spoiling","Spoilt","Is spoilt","Was spoilt"],"answer":1},
+  {"q":"Choose the appropriate tense:\nHe ______ this story for two hours.","options":["Have been reading","Had been reading","Is reading","Was reading"],"answer":1},
+  {"q":"Choose the proper tense or form of the verb given in brackets:\nWhen I visited him in Mumbai, he ______ there for five years. (teach)","options":["Teaches","Has been teaching","Is teaching","Had been teaching"],"answer":3}
+]

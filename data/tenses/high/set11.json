@@ -1,0 +1,22 @@
+[
+  {"q":"I ______ my foot playing tennis last week, and now I can hardly walk.","options":["Injured","Was injuring","Injure","Have injured"],"answer":0},
+  {"q":"It seems that somebody ______ to my father before the meeting, complaining that I ______ late for school four times last week.","options":["Has written / have been","Had written / was","Writes / was","Wrote / would be"],"answer":1},
+  {"q":"Whoever ______ the cooking ______ a great deal of work to do.","options":["Has done / has","Do / has","Is doing / had","Does / had had"],"answer":0},
+  {"q":"I went to the dance school last Friday, but I ______ it very much.","options":["Haven't enjoyed","Didn't enjoyed","Don't enjoy","Didn't enjoy"],"answer":3},
+  {"q":"The package ______ (arrive) at nine in the morning, the day after tomorrow.","options":["Would arrive","Can arrive","Cannot arrive","Will arrive"],"answer":3},
+  {"q":"The committee is determined not to leave ______ they have finished the project.","options":["Just as","By the time","Since","Until"],"answer":3},
+  {"q":"I ______ tennis yesterday.","options":["Will play","Have played","Play","Played"],"answer":3},
+  {"q":"When a satellite ______ (launch), the rocket begins by going slowly upwards.","options":["Were launched","Is launched","Have been launched","Are launched"],"answer":1},
+  {"q":"For a hundred years or so some critics ______ that poetry is dying, and all that time poets ______ poems that later generations recognize as great.","options":["Maintain, are writing","Maintained, wrote","Have maintained, have been writing","Had maintained, were writing"],"answer":2},
+  {"q":"I ______ late for school again this morning. The teacher was not happy.","options":["Arrive","Am arriving","Have arrived","Arrived"],"answer":3},
+  {"q":"Choose the proper tense or form of the verb given in brackets:\nWe ______ each other for the past ten years. (know)","options":["Are knowing","Had known","Know","Have known"],"answer":3},
+  {"q":"I ______ (see) a wonderful film in the cinema last night.","options":["Seen","Have seen","See","Saw"],"answer":3},
+  {"q":"Identify the correct tense for the given sentence:\nChildren were making a noise in the class.","options":["Past Continuous","Past Perfect","Past Indefinite","Past Perfect Continuous"],"answer":0},
+  {"q":"At this time tomorrow, Jason ______ in Paris.","options":["Was","Shall be","Were","Will be"],"answer":3},
+  {"q":"Choose the correct present continuous or perfect continuous form of the verb to complete the sentence:\nBharti ______ yoga classes these days.","options":["Has attending","Is attending","Has been attending","Attending"],"answer":1},
+  {"q":"Choose the appropriate tense:\nThere are a lot of clouds! It is going to ______ soon.","options":["It rains","Rain","Raining","Rains"],"answer":1},
+  {"q":"Fill in the blank with the Present Perfect Continuous Tense of the verb given in bracket.\nI ______ in this flat since 2000. (live)","options":["Had been living","Have living","Has been living","Have been living"],"answer":3},
+  {"q":"The judge ______ his verdict.","options":["Is announce","Was announce","Announced","Announce"],"answer":2},
+  {"q":"Choose the correct option for tense:\nDon't disturb your dad. He ______ about serious problems at his office.","options":["Is thinking","Think","Thought","Had been thinking"],"answer":0},
+  {"q":"Choose the correct option for tense:\nThe train ______ yet.","options":["Had not arrived","Did not arrive","Has not arrived","Will not arrive"],"answer":2}
+]

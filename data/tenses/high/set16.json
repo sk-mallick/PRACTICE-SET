@@ -1,0 +1,22 @@
+[
+  {"q":"Identify the correct tense for the given sentence:\nThe baby was weeping in the room.","options":["Past Indefinite","Past Continuous","Past Perfect","Past Perfect Continuous"],"answer":1},
+  {"q":"Identify the correct tense for the given sentence:\nAsha has never seen the Red Fort.","options":["Present Perfect","Present Perfect Continuous","Present Indefinite","Present Continuous"],"answer":0},
+  {"q":"Choose the proper tense or form of the verb given in brackets:\nI told him that I ______ hard for the last four hours. (work)","options":["Had been working","Am working","Worked","Was working"],"answer":0},
+  {"q":"Choose the correct option for tense:\nMy sister ______ already ______ the food.","options":["Did, cooked","Has, cooked","Was, cooking","Is, cooking"],"answer":1},
+  {"q":"Choose the correct past perfect form of the verb:\nYesterday, I read a poem which my teacher ______ to me.","options":["Recommended","Will be recommending","Had recommended","Have recommended"],"answer":2},
+  {"q":"Choose the correct option for tense:\nI ______ my dinner an hour ago.","options":["Taken","Took","Taking","Have taken"],"answer":1},
+  {"q":"Choose the correct option for tense:\nThe guests ______ yet.","options":["Did not arrive","Do not arrive","Have not arrived","Are not arriving"],"answer":2},
+  {"q":"I ______ for the Swiss delegation to arrive for over an hour.","options":["Have been waiting","Wait","Would be waiting","Will be waiting"],"answer":0},
+  {"q":"Choose the appropriate tense:\nSorry, she can't come to the phone. She ______ a bath!","options":["Has","Is having","Having","Have"],"answer":1},
+  {"q":"Choose the correct option for tense:\nThey ______ all the arrangements before the guest is arrival.","options":["Were making","Will have made","Will be made","Had been making"],"answer":1},
+  {"q":"Find the error: Neither he nor his brother can walk faster than me.","options":["No error","Neither he nor his brother","Can walk faster","Than me"],"answer":0},
+  {"q":"Choose the correct present perfect or simple past form of the verb:\nWest Indies ______ 313 at two wickets on the first day of the test match.","options":["Have scored","Score","Scored","Had scored"],"answer":0},
+  {"q":"Choose the correct option for tense:\nHe ______ me whenever he wants.","options":["Calls","Called","Calling","Call"],"answer":0},
+  {"q":"Choose the appropriate tense:\nWait a minute, this box ______ for you.","options":["Will carry","To carry","Carrying","Carry"],"answer":0},
+  {"q":"The doctor ______ an operation.","options":["Do","Done","Performed","Is performed"],"answer":2},
+  {"q":"Choose the correct option for tense:\nShe ______ to temple every morning.","options":["Go","Goes","Gone","Went"],"answer":1},
+  {"q":"Find the error: It is easy distinguishing this pen from that.","options":["No error","From that","It is easy","Distinguishing this pen"],"answer":3},
+  {"q":"Choose the appropriate tense:\nThe birds ______ a nest.","options":["Builds","Bilding","Build","Not build"],"answer":2},
+  {"q":"Choose the correct option for tense:\nLack of iodine ______ goiter.","options":["Causes","Has caused","In causing","Cause"],"answer":0},
+  {"q":"Find the error: Jayesh is getting fatter because he does not take exercise at all.","options":["Does not take exercise at all","Jayesh is getting","No error","Fatter because he"],"answer":3}
+]

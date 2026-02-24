@@ -1,0 +1,22 @@
+[
+  {"q":"The swimmer ______ to be in difficulty, but he ______ to reach the shore in the end.","options":["Seemed / has managed","Seemed / managed","Has seemed / managed","Seems / manages"],"answer":1},
+  {"q":"As he ______ the party, a strange man ______ him.","options":["Left / has been approaching","Leaves / was approaching","Was leaving / approached","Is leaving / has approached"],"answer":2},
+  {"q":"During the summer months, the monastery ______ very busy, for it is visited by thousands of people who ______ the pass in cars.","options":["Is, cross","Was, crossed","Has been, cross","Is, crossed"],"answer":0},
+  {"q":"She ______ me at the meetings only on Sundays as a child.","options":["Is seeing","Had seen","Saw","Was seeing"],"answer":2},
+  {"q":"Time ______ over. We ______ fifty applications in all.","options":["Is / received","Is / have received","Was / had been receiving","Had been / received"],"answer":1},
+  {"q":"When the young scouts ______ the top of the hill, they ______ for more than an hour.","options":["Will have reached / are walking","Had reached / were walking","Reach / will have been walking","Reached / have been walking"],"answer":2},
+  {"q":"The package ______ (arrive) at nine in the morning, the day after tomorrow.","options":["Would arrive","Can arrive","Cannot arrive","Will arrive"],"answer":3},
+  {"q":"He ______ to unlock the door to his flat because the telephone ______.","options":["Hurries / has been ringing","Was hurrying / rang","Hurried / was ringing","Is hurrying / rings"],"answer":2},
+  {"q":"The peak ______ the prize for mountaineers, especially if it ______ before.","options":["Was, had not been attained","Will be, wasn't attained","Has been, weren't attained","Is, has not been attained"],"answer":3},
+  {"q":"The young soldier ______ that he ______ in the battle.","options":["Fears / is killed","Will fear / would be killed","Feared / was killed","Fears / will be killed"],"answer":3},
+  {"q":"By the time we ______ our preparations for the congress, most of the participants ______ at the hall.","options":["Finished / had arrived","Finished / have arrived","Will have finished / arrive","Have finished / had arrived"],"answer":0},
+  {"q":"I ______ glasses when I was younger, but now I ______ contact lenses.","options":["Wore / have","Was wearing / have had","Have worn / am having","Have been wearing / had"],"answer":0},
+  {"q":"You ______ for being late to the party.","options":["Will regret","Will be regretting","Regret","Have been regretting"],"answer":0},
+  {"q":"I ______ my foot playing tennis last week, and now I can hardly walk.","options":["Injured","Was injuring","Injure","Have injured"],"answer":0},
+  {"q":"It ______ a nice day, therefore we went swimming.","options":["Was","Has been","Had been","Would be"],"answer":0},
+  {"q":"I ______ late for school again this morning. The teacher was not happy.","options":["Arrive","Am arriving","Have arrived","Arrived"],"answer":3},
+  {"q":"I ______ tennis yesterday.","options":["Will play","Have played","Play","Played"],"answer":3},
+  {"q":"Babies ______ when they are hungry.","options":["Cry","Cries","Cried","Are crying"],"answer":0},
+  {"q":"Sorry, you can't borrow my pencil. I ______ it myself.","options":["Am using","Use","Was using","Using"],"answer":0},
+  {"q":"I couldn't find out what ______.","options":["Will happen","Happens","Had happened","Has happened"],"answer":2}
+]
