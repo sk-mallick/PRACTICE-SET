@@ -1,6 +1,6 @@
 [
     {
-        "q": "Only one of the boys ……………….. not done the home-work given yesterday.",
+        "q": "Only one of the boys ______ not done the home-work given yesterday.",
         "options": [
             "have",
             "had",
@@ -10,7 +10,7 @@
         "answer": 1
     },
     {
-        "q": "It is time we .......………….. with determination.",
+        "q": "It is time we ______ with determination.",
         "options": [
             "act",
             "acted",
@@ -20,7 +20,7 @@
         "answer": 1
     },
     {
-        "q": "When the thief entered the house, the inmates ................ in the hall.",
+        "q": "When the thief entered the house, the inmates ______ in the hall.",
         "options": [
             "were sleeping",
             "slept",
@@ -30,7 +30,7 @@
         "answer": 0
     },
     {
-        "q": "The thief explained how he ……………………. from the jail.",
+        "q": "The thief explained how he ______ from the jail.",
         "options": [
             "escapes",
             "had escaped",
@@ -40,7 +40,7 @@
         "answer": 1
     },
     {
-        "q": "They did not know where they …………….… from.",
+        "q": "They did not know where they ______ from.",
         "options": [
             "come",
             "had come",
@@ -50,7 +50,7 @@
         "answer": 1
     },
     {
-        "q": "Madhu has not been able to recall where …………………………..",
+        "q": "Madhu has not been able to recall where ______.",
         "options": [
             "does she live",
             "she lived",
@@ -60,7 +60,7 @@
         "answer": 1
     },
     {
-        "q": "When he died, Ramanujan ………………………. behind 3 notebooks.",
+        "q": "When he died, Ramanujan ______ behind 3 notebooks.",
         "options": [
             "was leaving",
             "had left",
@@ -70,7 +70,7 @@
         "answer": 1
     },
     {
-        "q": "All the applicants …………… and the results will be announced next week.",
+        "q": "All the applicants ______ and the results will be announced next week.",
         "options": [
             "rank",
             "are to rank",
@@ -80,7 +80,7 @@
         "answer": 2
     },
     {
-        "q": "Tourists always enjoyed ………………….. the setting Sun in the Darjeeling hills.",
+        "q": "Tourists always enjoyed ______ the setting Sun in the Darjeeling hills.",
         "options": [
             "to watch",
             "watching",
@@ -90,7 +90,7 @@
         "answer": 1
     },
     {
-        "q": "Ramappa ……………………… as the mayor of the town and he will assume charge this Friday.",
+        "q": "Ramappa ______ as the mayor of the town and he will assume charge this Friday.",
         "options": [
             "elects",
             "has been elected",
@@ -100,7 +100,7 @@
         "answer": 1
     },
     {
-        "q": "Just as in a family it is the willing cooperation of its members that ……………… happiness and contentment, so is it in the larger family of the nation.",
+        "q": "Just as in a family it is the willing cooperation of its members that ______ happiness and contentment, so is it in the larger family of the nation.",
         "options": [
             "brought",
             "will bring",
@@ -110,7 +110,7 @@
         "answer": 1
     },
     {
-        "q": "The old man could not remember where he ......... his money.",
+        "q": "The old man could not remember where he ______ his money.",
         "options": [
             "deposits",
             "is depositing",
@@ -120,7 +120,7 @@
         "answer": 2
     },
     {
-        "q": "Hamid …………………….. in Mumbai for three years when his parents came to visit.",
+        "q": "Hamid ______ in Mumbai for three years when his parents came to visit.",
         "options": [
             "had lived",
             "had lived",
@@ -130,7 +130,7 @@
         "answer": 3
     },
     {
-        "q": "Two years have passed since he ………………………. here.",
+        "q": "Two years have passed since he ______ here.",
         "options": [
             "has come",
             "come",
@@ -140,7 +140,7 @@
         "answer": 2
     },
     {
-        "q": "Will those of you who have objections to this proposal………. put up your hands, please?",
+        "q": "Will those of you who have objections to this proposal ______ put up your hands, please?",
         "options": [
             "discussed",
             "being discussed",
@@ -150,7 +150,7 @@
         "answer": 1
     },
     {
-        "q": "She had frequent toothaches. So she decided to …………………………",
+        "q": "She had frequent toothaches. So she decided to ______.",
         "options": [
             "remove her teeth",
             "removing her teeth",
@@ -160,7 +160,7 @@
         "answer": 2
     },
     {
-        "q": "The mechanic …………………….. the vehicle since this morning.",
+        "q": "The mechanic ______ the vehicle since this morning.",
         "options": [
             "repaired",
             "repairing",
@@ -170,7 +170,7 @@
         "answer": 2
     },
     {
-        "q": "If I had worked here, I ………………….. very high marks in the examination.",
+        "q": "If I had worked here, I ______ very high marks in the examination.",
         "options": [
             "scored",
             "would score",
@@ -180,7 +180,7 @@
         "answer": 3
     },
     {
-        "q": "I got used ……………………… on the right when I was in the U.S. for two years.",
+        "q": "I got used ______ on the right when I was in the U.S. for two years.",
         "options": [
             "driving",
             "to drive",
@@ -190,7 +190,7 @@
         "answer": 2
     },
     {
-        "q": "Had you told me earlier I …………………….. the meeting.",
+        "q": "Had you told me earlier I ______ the meeting.",
         "options": [
             "had attended",
             "have attended",
@@ -200,7 +200,7 @@
         "answer": 3
     },
     {
-        "q": "There will be a rush for seats when the train …………………………...",
+        "q": "There will be a rush for seats when the train ______.",
         "options": [
             "will arrive",
             "arrived",
@@ -210,7 +210,7 @@
         "answer": 3
     },
     {
-        "q": "By the time I reach America, it ……………………. morning.",
+        "q": "By the time I reach America, it ______ morning.",
         "options": [
             "is",
             "will have become",
@@ -220,7 +220,7 @@
         "answer": 1
     },
     {
-        "q": "She feared that she……………………………..",
+        "q": "She feared that she ______.",
         "options": [
             "will fail",
             "may fail",
@@ -230,7 +230,7 @@
         "answer": 1
     },
     {
-        "q": "I was washing my face as the insect .................... quietly into the bedroom.",
+        "q": "I was washing my face as the insect ______ quietly into the bedroom.",
         "options": [
             "crept",
             "creeps",
@@ -240,7 +240,7 @@
         "answer": 0
     },
     {
-        "q": "During the recent floods two thirds of our city …………….... in ruins.",
+        "q": "During the recent floods two thirds of our city ______ in ruins.",
         "options": [
             "are",
             "were",
@@ -250,7 +250,7 @@
         "answer": 3
     },
     {
-        "q": "I have ……………………….. Lakshmi for the past twelve years.",
+        "q": "I have ______ Lakshmi for the past twelve years.",
         "options": [
             "know",
             "knew",
@@ -260,7 +260,7 @@
         "answer": 2
     },
     {
-        "q": "The engineers ………………………. this bridge since last year.",
+        "q": "The engineers ______ this bridge since last year.",
         "options": [
             "have repaired",
             "had repaired",
@@ -270,7 +270,7 @@
         "answer": 2
     },
     {
-        "q": "If I had helped him, he …………………",
+        "q": "If I had helped him, he ______.",
         "options": [
             "will not be drowned",
             "would not be drowned",
@@ -280,7 +280,7 @@
         "answer": 3
     },
     {
-        "q": "The housewife ……………………. cakes burning, and ran to switch off the oven.",
+        "q": "The housewife ______ cakes burning, and ran to switch off the oven.",
         "options": [
             "smell",
             "smells",
@@ -290,7 +290,7 @@
         "answer": 2
     },
     {
-        "q": "If you had followed the rules, you………………………. disqualified.",
+        "q": "If you had followed the rules, you ______ disqualified.",
         "options": [
             "will not be",
             "would not be",
@@ -300,7 +300,7 @@
         "answer": 3
     },
     {
-        "q": "The farmers …………….. their farms, if they had known that a thunderstorm was approaching.",
+        "q": "The farmers ______ their farms, if they had known that a thunderstorm was approaching.",
         "options": [
             "will leave",
             "would leave",
@@ -310,7 +310,7 @@
         "answer": 3
     },
     {
-        "q": "………………… you hear the President’s speech ?",
+        "q": "______ you hear the President's speech?",
         "options": [
             "Have",
             "Has",
@@ -320,7 +320,7 @@
         "answer": 3
     },
     {
-        "q": "I …………………… to the movies with some friends last night.",
+        "q": "I ______ to the movies with some friends last night.",
         "options": [
             "have gone",
             "went",
@@ -330,7 +330,7 @@
         "answer": 1
     },
     {
-        "q": "If I ………………………. a doctor, I would serve the poor,",
+        "q": "If I ______ a doctor, I would serve the poor.",
         "options": [
             "am",
             "had been",
@@ -340,7 +340,7 @@
         "answer": 2
     },
     {
-        "q": "The plane will take off when the thunderstorm ……………………….",
+        "q": "The plane will take off when the thunderstorm ______.",
         "options": [
             "stops",
             "stopped",
@@ -350,7 +350,7 @@
         "answer": 0
     },
     {
-        "q": "When the doctor………………………….; the patient was already……………………………..",
+        "q": "When the doctor ______; the patient was already ______.",
         "options": [
             "arrived; died",
             "arrived; dead",
@@ -360,7 +360,7 @@
         "answer": 1
     },
     {
-        "q": "If you litter, you………………………. to pay a fine.",
+        "q": "If you litter, you ______ to pay a fine.",
         "options": [
             "will have",
             "would have",
@@ -370,7 +370,7 @@
         "answer": 0
     },
     {
-        "q": "The life-guard would not let the children………………… at the deep end of the pool.",
+        "q": "The life-guard would not let the children ______ at the deep end of the pool.",
         "options": [
             "swims",
             "swim",
@@ -380,7 +380,7 @@
         "answer": 1
     },
     {
-        "q": "The audience watched the clowns…………………………..",
+        "q": "The audience watched the clowns ______.",
         "options": [
             "performs",
             "perform",
@@ -390,7 +390,7 @@
         "answer": 1
     },
     {
-        "q": "We shall go for a picnic if the weather……………………..good.",
+        "q": "We shall go for a picnic if the weather ______ good.",
         "options": [
             "is",
             "was",
@@ -400,7 +400,7 @@
         "answer": 0
     },
     {
-        "q": "I …………………. hard to establish the validity of the theory since morning.",
+        "q": "I ______ hard to establish the validity of the theory since morning.",
         "options": [
             "have been trying",
             "had tried",
@@ -410,7 +410,7 @@
         "answer": 0
     },
     {
-        "q": "I wish I ………………………… her to clean the room.",
+        "q": "I wish I ______ her to clean the room.",
         "options": [
             "have asking",
             "have asked",
@@ -420,7 +420,7 @@
         "answer": 3
     },
     {
-        "q": "Simon …………………….. very polite at the moment, because he wants to make a good impression.",
+        "q": "Simon ______ very polite at the moment, because he wants to make a good impression.",
         "options": [
             "was being",
             "has been",
@@ -430,7 +430,7 @@
         "answer": 3
     },
     {
-        "q": "Had I saved money, I ………………………….. a new car.",
+        "q": "Had I saved money, I ______ a new car.",
         "options": [
             "will purchase",
             "would purchase",
@@ -440,7 +440,7 @@
         "answer": 2
     },
     {
-        "q": "He told me that he ……………………… the movie.",
+        "q": "He told me that he ______ the movie.",
         "options": [
             "is finished",
             "was finished",
@@ -450,7 +450,7 @@
         "answer": 2
     },
     {
-        "q": "The railway coaches …………………………. by the Integral Coach Factory, Chennai.",
+        "q": "The railway coaches ______ by the Integral Coach Factory, Chennai.",
         "options": [
             "is manufactured",
             "are manufactured",
@@ -460,7 +460,7 @@
         "answer": 1
     },
     {
-        "q": "The car broke down and we …………………… get a taxi.",
+        "q": "The car broke down and we ______ get a taxi.",
         "options": [
             "were to",
             "are to",
@@ -470,7 +470,7 @@
         "answer": 2
     },
     {
-        "q": "He said I …………………. use his car when ever I wanted.",
+        "q": "He said I ______ use his car whenever I wanted.",
         "options": [
             "could",
             "can",
@@ -480,7 +480,7 @@
         "answer": 0
     },
     {
-        "q": "While he was working at the site, a block of wood suddenly ………… his right shoulder.",
+        "q": "While he was working at the site, a block of wood suddenly ______ his right shoulder.",
         "options": [
             "was hitted",
             "was hit",
@@ -490,7 +490,7 @@
         "answer": 3
     },
     {
-        "q": "In the tragic incident, none of the 145 passengers ……………………….",
+        "q": "In the tragic incident, none of the 145 passengers ______.",
         "options": [
             "could survived",
             "survive",
@@ -500,7 +500,7 @@
         "answer": 2
     },
     {
-        "q": "I asked him for some paper, but he ……………………..",
+        "q": "I asked him for some paper, but he ______.",
         "options": [
             "had not",
             "has not",
@@ -510,7 +510,7 @@
         "answer": 2
     },
     {
-        "q": "Did the child ………………….. from the chair?",
+        "q": "Did the child ______ from the chair?",
         "options": [
             "fell",
             "fallen",
@@ -520,7 +520,7 @@
         "answer": 3
     },
     {
-        "q": "Work hard so that you …………………………. (Purpose)",
+        "q": "Work hard so that you ______ (Purpose)",
         "options": [
             "shall get good marks",
             "will get good marks",
@@ -530,7 +530,7 @@
         "answer": 2
     },
     {
-        "q": "The officer …………………. the car to speak to the driver.",
+        "q": "The officer ______ the car to speak to the driver.",
         "options": [
             "stops",
             "has stopped",
@@ -540,7 +540,7 @@
         "answer": 2
     },
     {
-        "q": "Thank God! We reached. If there .......... jam on the highway, we would have been late for the reception.",
+        "q": "Thank God! We reached. If there ______ jam on the highway, we would have been late for the reception.",
         "options": [
             "had been",
             "would have been",
@@ -550,7 +550,7 @@
         "answer": 0
     },
     {
-        "q": "If you ............ me up earlier, we would have gone there together.",
+        "q": "If you ______ me up earlier, we would have gone there together.",
         "options": [
             "woke",
             "had woken",
@@ -560,7 +560,7 @@
         "answer": 1
     },
     {
-        "q": "Last night the residents .............. to discuss the occurrence of theft in the locality.",
+        "q": "Last night the residents ______ to discuss the occurrence of theft in the locality.",
         "options": [
             "assembled",
             "had assembled",
@@ -570,7 +570,7 @@
         "answer": 0
     },
     {
-        "q": "The students decided to donate blood after they ............ the plight of the injured in various accidents in a documentary film.",
+        "q": "The students decided to donate blood after they ______ the plight of the injured in various accidents in a documentary film.",
         "options": [
             "saw",
             "had seen",
@@ -580,7 +580,7 @@
         "answer": 1
     },
     {
-        "q": "The newspaper ............ seven cases of gruesome crime in the city yesterday.",
+        "q": "The newspaper ______ seven cases of gruesome crime in the city yesterday.",
         "options": [
             "reported",
             "has reported",
@@ -590,7 +590,7 @@
         "answer": 0
     },
     {
-        "q": "An enquiry committee has been formed as devastating poverty and indebtedness .............. farmers in the country to commit suicide.",
+        "q": "An enquiry committee has been formed as devastating poverty and indebtedness ______ farmers in the country to commit suicide.",
         "options": [
             "forced",
             "has forced",

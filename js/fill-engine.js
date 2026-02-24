@@ -135,8 +135,8 @@ function render() {
     const container = document.getElementById('quiz-container');
     container.innerHTML = '';
 
-    // Progressive rendering: first 5 cards immediate, rest on idle
-    UX.renderProgressive(displayQuestions, buildFillCard, container, 5);
+    // Batch render ALL questions using DocumentFragment (single DOM operation)
+    UX.renderBatch(displayQuestions, buildFillCard, container);
 
     // TRIGGER STAGGER ANIMATION after a microtask (so DOM is ready)
     requestAnimationFrame(() => {

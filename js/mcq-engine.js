@@ -137,8 +137,8 @@ function render() {
         return;
     }
 
-    // Progressive rendering: first 5 cards immediate, rest on idle
-    UX.renderProgressive(displayQuestions, buildMCQCard, container, 5);
+    // Batch render ALL questions using DocumentFragment (single DOM operation)
+    UX.renderBatch(displayQuestions, buildMCQCard, container);
 
     // TRIGGER STAGGER ANIMATION after a microtask (so DOM is ready)
     requestAnimationFrame(() => {

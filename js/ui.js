@@ -278,29 +278,11 @@ export const UX = {
         return a;
     },
 
-    // Progressive Rendering: renders first batch immediately, rest on idle
-    renderProgressive(items, renderFn, container, batchSize = 5) {
-        const firstBatch = items.slice(0, batchSize);
-        const rest = items.slice(batchSize);
-
-        // Render first batch immediately using DocumentFragment
+    // Batch Rendering: builds ALL items in a DocumentFragment, appends once (single reflow)
+    renderBatch(items, renderFn, container) {
         const fragment = document.createDocumentFragment();
-        firstBatch.forEach((item, i) => renderFn(item, i, fragment));
+        items.forEach((item, i) => renderFn(item, i, fragment));
         container.appendChild(fragment);
-
-        // Render rest in idle time
-        if (rest.length > 0) {
-            const idleFn = () => {
-                const restFragment = document.createDocumentFragment();
-                rest.forEach((item, i) => renderFn(item, i + batchSize, restFragment));
-                container.appendChild(restFragment);
-            };
-            if (window.requestIdleCallback) {
-                requestIdleCallback(idleFn, { timeout: 100 });
-            } else {
-                setTimeout(idleFn, 16);
-            }
-        }
     }
 };
 
