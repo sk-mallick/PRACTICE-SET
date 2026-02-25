@@ -149,7 +149,6 @@
     { "q": "Till today, neither of the two brothers ______ this race.", "options": ["Will run", "Would run", "Has run", "Have run"], "answer": 2 },
     { "q": "They ______ work hard to get good grades.", "options": ["Might", "Were", "Does", "Should"], "answer": 3 },
     { "q": "I ______ you are right.", "options": ["Am thinking", "Thought", "Think", "Thinks"], "answer": 2 },
-    { "q": "Nearly all the sports practised nowadays __________ competitive.", "options": ["Error: Is | Correction: Are", "Error: Practised | Correction: Practices", "Error: Nearly | Correction: Really", "Error: Competitive | Correction: Comparable"], "answer": 0 },
     { "q": "Every student __________ going to be responsible for his chap- ters and each student __________ bring his or her homework on the exam day.", "options": ["Is, have to", "Is, has to", "Are, have to", "Are, will"], "answer": 1 },
     { "q": "With your cooperation, we __________ win the match.", "options": ["Must", "Shouldn’t", "Ought", "Might"], "answer": 3 },
     { "q": "The children of the man who works with me __________ broken the window this morning.", "options": ["Have", "Has", "Were", "Had"], "answer": 0 },
@@ -249,4 +248,5 @@
     { "q": "One of the main solutions to such problems __________ to show no reaction to the person in those times.", "options": ["Is", "Supposed", "Were", "Was"], "answer": 0 },
     { "q": "One of the books __________ been missing.", "options": ["Has", "Is", "Are", "Have"], "answer": 0 },
     { "q": "Nearly all the sports practised nowadays __________ competitive.", "options": ["Error: Is | Correction: Are", "Error: Practised | Correction: Practices", "Error: Nearly | Correction: Really", "Error: Competitive | Correction: Comparable"], "answer": 0 }
+
 ]
