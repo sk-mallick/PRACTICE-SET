@@ -23,5 +23,5 @@
   {"q":"Most of the milk __________ gone.","options":["Have","Were","Are","Is"],"answer":3},
   {"q":"One of the main solutions to such problems __________ to show no reaction to the person in those times.","options":["Is","Supposed","Were","Was"],"answer":0},
   {"q":"One of the books __________ been missing.","options":["Has","Is","Are","Have"],"answer":0},
-  {"q":"Nearly all the sports practised nowadays __________ competitive.","options":["Error: Is | Correction: Are","Error: Practised | Correction: Practices","Error: Nearly | Correction: Really","Error: Competitive | Correction: Comparable"],"answer":0}
+  {"q":"Nearly all the sports practised nowadays is competitive.","options":["Error: Is | Correction: Are","Error: Practised | Correction: Practices","Error: Nearly | Correction: Really","Error: Competitive | Correction: Comparable"],"answer":0}
 ]
