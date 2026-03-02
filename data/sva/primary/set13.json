@@ -1,7 +1,17 @@
 [
-    { "q": "Her wages ___ Rs. a month.", "options": ["is", "are"], "answer": 1 },
-    { "q": "Fifty percent of the amount ___ been paid.", "options": ["has", "have"], "answer": 0 },
-    { "q": "A lot of pens ___ been purchased.", "options": ["has", "have"], "answer": 1 },
-    { "q": "Village after village ___ destroyed.", "options": ["was", "were"], "answer": 0 },
-    { "q": "Words worth’s poetry ___ immortal.", "options": ["is", "are"], "answer": 0 }
+    { "q": "Riches _______ in hell.", "options": ["grow", "grows"], "answer": 0 },
+    { "q": "Arms and the Man _______ a famous play.", "options": ["is", "are"], "answer": 0 },
+    { "q": "The gentry _______ a luxurious life.", "options": ["lead", "leads"], "answer": 0 },
+    { "q": "What I need _______ a colour TV.", "options": ["is", "are"], "answer": 0 },
+    { "q": "The greens _______ not fresh.", "options": ["is", "are"], "answer": 1 },
+    { "q": "Rekha wants to help you; so _______ Veena.", "options": ["does", "do"], "answer": 0 },
+    { "q": "Manisha does not like me, neither _______ you.", "options": ["do", "does"], "answer": 0 },
+    { "q": "My students were present there, so _______ I.", "options": ["was", "were"], "answer": 0 },
+    { "q": "Sushma is a singer, as _______ her sister.", "options": ["is", "are"], "answer": 0 },
+    { "q": "Rajani is intelligent, as _______ her brother.", "options": ["is", "are"], "answer": 0 },
+    { "q": "The teeth of the girl _______ white.", "options": ["is", "are"], "answer": 1 },
+    { "q": "He ordered as if he _______ my boss.", "options": ["was", "were"], "answer": 1 },
+    { "q": "The number of books _______ increasing.", "options": ["is", "are"], "answer": 0 },
+    { "q": "You and I _______ good friends.", "options": ["is", "are"], "answer": 1 },
+    { "q": "The blind _______ helpless.", "options": ["is", "are"], "answer": 1 }
 ]

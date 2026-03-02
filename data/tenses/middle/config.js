@@ -5,6 +5,7 @@ export default {
     engine: "mcq",               // "mcq" or "fill" (which HTML file to open)
     icon: "book",                 // "time", "list", "book", or "chat"
     sets: 9,                     // Total number of setN.json files
+    level: "M",
 
     headerTitle: "TIME & TENSE PRACTICE",                 // Top left title in the engine
     headerSubtitlePrefix: "By Chiranjibi Sir",       // Text before the bullet point (•)
