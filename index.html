@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GrammarHub - ChiranjiBi sir</title>
-    <link rel="icon" type="image/png" href="icon.png">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;600;800&display=swap"
-        rel="stylesheet">
-    <!-- Modulepreload: tells browser to fetch+parse modules BEFORE execution discovers them -->
-    <link rel="modulepreload" href="js/ui.js">
-    <link rel="modulepreload" href="js/index-loader.js">
-    <script>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>GrammarHub - ChiranjiBi sir</title>
+        <link rel="icon" type="image/png" href="icon.png">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;600;800&display=swap"
+            rel="stylesheet">
+        <!-- Modulepreload: tells browser to fetch+parse modules BEFORE execution discovers them -->
+        <link rel="modulepreload" href="js/ui.js">
+        <link rel="modulepreload" href="js/index-loader.js">
+        <script>
         tailwind.config = {
             theme: {
                 extend: {
@@ -23,7 +23,7 @@
             }
         }
     </script>
-    <style>
+        <style>
         body {
             background-color: #020617;
             color: #ffffff;
@@ -54,58 +54,70 @@
             transition: all 0.4s ease;
         }
     </style>
-</head>
+    </head>
 
-<body class="min-h-screen flex flex-col items-center p-6">
+    <body class="min-h-screen flex flex-col items-center p-6">
 
-    <div class="flex-grow w-full max-w-6xl flex flex-col items-center justify-center">
+        <div
+            class="flex-grow w-full max-w-6xl flex flex-col items-center justify-center">
 
-        <div class="text-center mb-16 mt-10 md:mt-0">
-            <div
-                class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-gray-800 bg-gray-900/50 backdrop-blur-sm mb-8">
-                <span class="w-2 h-2 rounded-full bg-gold-500 animate-pulse"></span>
-                <span class="text-xs font-semibold tracking-widest text-gray-300 uppercase">Production 2.0</span>
-            </div>
-            <h1 class="text-5xl md:text-7xl font-black tracking-tight mb-4 text-white drop-shadow-xl">ENGLISH<span
-                    class="text-red-600">JIBI</span></h1>
-            <h2 class="text-2xl md:text-3xl font-serif italic text-gray-300 mb-6">by <span
-                    class="text-gold-500 not-italic font-sans font-bold border-b-2 border-gold-500/30 pb-1">ChiranjiBi
-                    Sir</span></h2>
-            <p
-                class="text-gray-500 text-sm md:text-base font-medium max-w-xl mx-auto leading-relaxed border-t border-gray-800 pt-6 mt-6">
-                Complete Grammar Resources.<br><span class="text-gray-400">Fill in the Blanks • MCQs • Practice
-                    Sets</span></p>
-        </div>
-
-        <!-- DYNAMIC GRID CONTAINER -->
-        <div id="card-grid"
-            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full max-w-5xl px-4 relative z-10">
-
-            <!-- Loading State (Will be removed by JS) -->
-            <div class="col-span-full text-center py-10 animate-pulse">
+            <div class="text-center mb-16 mt-10 md:mt-0">
                 <div
-                    class="inline-block w-8 h-8 border-4 border-gold-500 border-t-transparent rounded-full animate-spin mb-4">
+                    class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-gray-800 bg-gray-900/50 backdrop-blur-sm mb-8">
+                    <span
+                        class="w-2 h-2 rounded-full bg-gold-500 animate-pulse"></span>
+                    <span
+                        class="text-xs font-semibold tracking-widest text-gray-300 uppercase">Production
+                        2.0</span>
                 </div>
-                <p class="text-gray-500 font-mono text-sm">Scanning Library...</p>
+                <h1
+                    class="text-5xl md:text-7xl font-black tracking-tight mb-4 text-white drop-shadow-xl">ENGLISH<span
+                        class="text-red-600">JIBI</span></h1>
+                <h2
+                    class="text-2xl md:text-3xl font-serif italic text-gray-300 mb-6">by
+                    <span
+                        class="text-gold-500 not-italic font-sans font-bold border-b-2 border-gold-500/30 pb-1">ChiranjiBi
+                        Sir</span></h2>
+                <p
+                    class="text-gray-500 text-sm md:text-base font-medium max-w-xl mx-auto leading-relaxed border-t border-gray-800 pt-6 mt-6">
+                    Complete Grammar Resources.<br><span
+                        class="text-gray-400">Fill in the Blanks • MCQs •
+                        Practice
+                        Sets</span></p>
             </div>
 
-        </div>
-    </div>
+            <!-- DYNAMIC GRID CONTAINER -->
+            <div id="card-grid"
+                class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full max-w-5xl px-4 relative z-10">
 
-    <footer class="w-full text-center py-8 mt-12 border-t border-gray-900">
-        <div class="flex flex-col gap-2 items-center justify-center text-sm text-gray-500">
-            <p>&copy; 2026 GrammarHub. All Rights Reserved.</p>
-            <div class="flex flex-row items-center gap-2">
-                <p class="text-xs">Web Design by <span
-                        class="text-gray-300 font-semibold hover:text-gold-500 transition-colors cursor-default">Subham
-                        Kumar Mallick</span></p>
+                <!-- Loading State (Will be removed by JS) -->
+                <div class="col-span-full text-center py-10 animate-pulse">
+                    <div
+                        class="inline-block w-8 h-8 border-4 border-gold-500 border-t-transparent rounded-full animate-spin mb-4">
+                    </div>
+                    <p class="text-gray-500 font-mono text-sm">Scanning
+                        Library...</p>
+                </div>
+
             </div>
         </div>
-    </footer>
 
-    <!-- AUTOMATION SCRIPT -->
-    <script type="module" src="js/index-loader.js"></script>
+        <footer class="w-full text-center py-8 mt-12 border-t border-gray-900">
+            <div
+                class="flex flex-col gap-2 items-center justify-center text-sm text-gray-500">
+                <p>&copy; 2026 GrammarHub. All Rights Reserved.</p>
+                <div class="flex flex-row items-center gap-2">
+                    <p class="text-xs">Web Design by <span
+                            class="text-gray-300 font-semibold hover:text-gold-500 transition-colors cursor-default">Subham
+                            Kumar Mallick</span></p>
+                </div>
+            </div>
+        </footer>
 
-</body>
+        <!-- AUTOMATION SCRIPT -->
+        <script type="module" src="js/index-loader.js"></script>
+        <script src="components/footer.js"></script>
+
+    </body>
 
 </html>

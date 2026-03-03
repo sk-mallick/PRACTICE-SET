@@ -14,6 +14,10 @@ async function init() {
 
     // 1. Show Fill Specific Skeletons IMMEDIATELY
     const container = document.getElementById('quiz-container');
+    if (!container) {
+        console.error('Quiz container not found in HTML');
+        return;
+    }
     container.innerHTML = Array(5).fill(UX.Skeletons.getFillSkeleton()).join('');
 
     // 2. PARALLEL LOAD: Config + Data fetched simultaneously (saves 200-400ms)
@@ -47,8 +51,49 @@ async function init() {
         return;
     }
 
-    allQuestions = dataResult;
-    displayQuestions = [...allQuestions];
+    // Ensure data is an array
+    if (!Array.isArray(dataResult)) {
+        console.error('Data is not an array:', dataResult);
+        container.innerHTML = `<div class="text-center py-20 text-slate-500 font-bold">Invalid data format received</div>`;
+        setupMenu();
+        return;
+    }
+
+    // Validate and filter questions
+    const validQuestions = dataResult.filter((q, idx) => {
+        if (!q || typeof q !== 'object') {
+            console.warn(`Question at index ${idx} is invalid:`, q);
+            return false;
+        }
+        if (!q.q || typeof q.q !== 'string') {
+            console.warn(`Question at index ${idx} missing question text`);
+            return false;
+        }
+        if (!Array.isArray(q.options) || q.options.length < 2) {
+            console.warn(`Question at index ${idx} has invalid options`, q.options);
+            return false;
+        }
+        if (q.answer === undefined || q.answer === null || q.answer < 0 || q.answer >= q.options.length) {
+            console.warn(`Question at index ${idx} has invalid answer index: ${q.answer}, options length: ${q.options.length}`);
+            return false;
+        }
+        return true;
+    });
+
+    if (validQuestions.length === 0) {
+        container.innerHTML = `<div class="text-center py-20 text-slate-500 font-bold">⚠️ No valid questions found. Data may be corrupted.</div>`;
+        setupMenu();
+        return;
+    }
+
+    if (validQuestions.length < dataResult.length) {
+        const skipped = dataResult.length - validQuestions.length;
+        console.warn(`⚠️ Skipped ${skipped} invalid questions. ${validQuestions.length} valid questions loaded.`);
+    }
+
+    allQuestions = validQuestions;
+    // Shuffle questions on initial load so they appear in random order
+    displayQuestions = UX.fisherYatesShuffle([...allQuestions]);
 
     // 6. Prefetch next set in background
     UX.prefetchNextSet(topic, level, set);
@@ -72,13 +117,69 @@ function setupMenu() {
             closeMenu();
         },
         (count) => {
-            const c = parseInt(count) || 10;
-            const shuffled = UX.fisherYatesShuffle(allQuestions);
-            displayQuestions = shuffled.slice(0, c);
-            render();
-            closeMenu();
+            generateRandomQuestions(count);
         }
     );
+}
+
+// Load all sets and generate random questions from combined pool
+async function generateRandomQuestions(count) {
+    const { topic, level } = getParams();
+    const c = parseInt(count) || 10;
+
+    // Show loading state
+    const container = document.getElementById('quiz-container');
+    const originalContent = container.innerHTML;
+    container.innerHTML = '<div class="text-center py-20 text-slate-400"><p>🔄 Loading questions from all sets...</p></div>';
+
+    try {
+        // Combine questions from all available sets
+        let allCombinedQuestions = [];
+
+        for (const setNum of availableSets) {
+            try {
+                const response = await fetch(`../data/${topic}/${level}/set${setNum}.json`);
+                if (response.ok) {
+                    const setQuestions = await response.json();
+                    if (Array.isArray(setQuestions)) {
+                        allCombinedQuestions = allCombinedQuestions.concat(setQuestions);
+                    }
+                }
+            } catch (e) {
+                console.warn(`Failed to load set${setNum}:`, e);
+            }
+        }
+
+        // Validate combined data
+        if (allCombinedQuestions.length === 0) {
+            container.innerHTML = '<div class="text-center py-20 text-red-500">❌ No questions found to generate</div>';
+            return;
+        }
+
+        // Validate each question has required fields
+        const validQuestions = allCombinedQuestions.filter(q => {
+            return q && q.q && Array.isArray(q.options) && q.options.length >= 2 && q.answer !== undefined;
+        });
+
+        if (validQuestions.length === 0) {
+            container.innerHTML = '<div class="text-center py-20 text-red-500">❌ No valid questions found. Data may be corrupted.</div>';
+            return;
+        }
+
+        // Show stats
+        console.log(`✅ Loaded ${validQuestions.length} valid questions from ${availableSets.length} sets`);
+
+        // Shuffle and select
+        const shuffled = UX.fisherYatesShuffle(validQuestions);
+        displayQuestions = shuffled.slice(0, Math.min(c, validQuestions.length));
+
+        render();
+        closeMenu();
+
+    } catch (e) {
+        console.error('Error generating random questions:', e);
+        container.innerHTML = `<div class="text-center py-20 text-red-500">❌ Error: ${e.message}</div>`;
+    }
 }
 
 function closeMenu() {
@@ -87,6 +188,11 @@ function closeMenu() {
 
 // Build a single fill card and append to parent (DocumentFragment or container)
 function buildFillCard(item, index, parent) {
+    if (!item || !item.options || !Array.isArray(item.options) || item.answer === undefined) {
+        console.warn('Invalid question format at index', index, item);
+        return;
+    }
+
     const displayNum = index + 1;
 
     const card = document.createElement('div');
@@ -104,7 +210,7 @@ function buildFillCard(item, index, parent) {
     textContainer.className = "text-white font-bold text-lg md:text-xl leading-snug tracking-wide flex-1";
 
     const blankId = `blank-${displayNum}`;
-    let processedText = item.q.replace(/_{2,}|\.{3,}|…/g, `<span id="${blankId}" class="inline-block min-w-[100px] border-b-2 border-slate-500 text-transparent text-center px-1 transition-all font-extrabold">_______</span>`);
+    let processedText = (item.q || '').replace(/_{2,}|\.{3,}|…/g, `<span id="${blankId}" class="inline-block min-w-[100px] border-b-2 border-slate-500 text-transparent text-center px-1 transition-all font-extrabold">_______</span>`);
     textContainer.innerHTML = processedText;
 
     const btnContainer = document.createElement('span');
@@ -133,7 +239,17 @@ function buildFillCard(item, index, parent) {
 
 function render() {
     const container = document.getElementById('quiz-container');
+    if (!container) {
+        console.error('Quiz container not found');
+        return;
+    }
+
     container.innerHTML = '';
+
+    if (!displayQuestions || displayQuestions.length === 0) {
+        container.innerHTML = `<div class="text-center py-20 text-slate-500">No questions found.</div>`;
+        return;
+    }
 
     // Batch render ALL questions using DocumentFragment (single DOM operation)
     UX.renderBatch(displayQuestions, buildFillCard, container);

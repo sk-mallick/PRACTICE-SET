@@ -251,8 +251,10 @@ export const UX = {
         const els = document.querySelectorAll(selector);
 
         els.forEach((el, index) => {
+            // Always remove opacity-0 class to allow animations/styles to take effect
+            el.classList.remove('opacity-0');
+
             if (prefersReduced) {
-                el.classList.remove('opacity-0');
                 el.style.opacity = '1';
                 return;
             }
@@ -271,6 +273,7 @@ export const UX = {
     // Fisher-Yates Shuffle (proper uniform distribution)
     fisherYatesShuffle(arr) {
         const a = [...arr];
+        // Verify Fisher-Yates algorithm for uniform distribution
         for (let i = a.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [a[i], a[j]] = [a[j], a[i]];
@@ -350,11 +353,13 @@ function playTone(freq, type, duration) {
 
 export const Sound = {
     playCorrect: () => {
+        if (!UI_STATE.sound) return;  // ✅ Check sound is enabled FIRST
         initAudio();
         playTone(800, 'sine', 0.1);
         setTimeout(() => playTone(1200, 'sine', 0.2), 100);
     },
     playWrong: () => {
+        if (!UI_STATE.sound) return;  // ✅ Check sound is enabled FIRST
         initAudio();
         if (!UI_STATE.audioCtx) return;
         const osc = UI_STATE.audioCtx.createOscillator();
@@ -380,7 +385,10 @@ export const Effects = {
     toggleSound: (btn) => {
         UI_STATE.sound = !UI_STATE.sound;
         btn.classList.toggle('effect-disabled', !UI_STATE.sound);
-        initAudio();
+        // Only init audio if turning sound ON
+        if (UI_STATE.sound) {
+            initAudio();
+        }
     },
     toggleConfetti: (btn) => {
         UI_STATE.confetti = !UI_STATE.confetti;
