@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (footer) {
         footer.style.cursor = 'pointer';
         footer.addEventListener('click', function () {
-            window.location.href = 'https://sk-mallick.github.io/SK-Mallick-Portfolio';
+            window.open('https://sk-mallick.github.io/SK-Mallick-Portfolio', '_blank');
         });
     }
 });
