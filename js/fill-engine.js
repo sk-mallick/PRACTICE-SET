@@ -92,8 +92,8 @@ async function init() {
     }
 
     allQuestions = validQuestions;
-    // Shuffle questions on initial load so they appear in random order
-    displayQuestions = UX.fisherYatesShuffle([...allQuestions]);
+    // Questions appear in original order from the set file
+    displayQuestions = [...allQuestions];
 
     // 6. Prefetch next set in background
     UX.prefetchNextSet(topic, level, set);
