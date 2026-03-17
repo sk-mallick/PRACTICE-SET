@@ -6,7 +6,7 @@ export default {
     icon: "list",
     sets: 10,
     level: "P",
-    headerTitle: "Preposition PRACTICE",
+    headerTitle: "Preposition",
     headerSubtitlePrefix: "By Chiranjibi Sir",
     pdfheader: "Preposition",
 }
