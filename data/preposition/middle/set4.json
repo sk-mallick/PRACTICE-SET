@@ -1,0 +1,17 @@
+[
+  {"q":"A man is angry ______ a person; he may be angry ______ a thing.","options":["at; with","with; on","with; at","with; of"],"answer":2},
+  {"q":"Our villagers voted ______ the Congress candidate.","options":["for","to","of","at"],"answer":0},
+  {"q":"The publisher introduced me ______ Rajeevjee.","options":["for","to","of","at"],"answer":1},
+  {"q":"It is needless to lament ______ the dead.","options":["to","of","for","with"],"answer":2},
+  {"q":"The dead body is devoid ______ sense.","options":["to","of","for","with"],"answer":1},
+  {"q":"He is devoid ______ sympathy.","options":["from","in","of","with"],"answer":2},
+  {"q":"The old man is totally dependent ______ his son.","options":["in","upon","to","from"],"answer":1},
+  {"q":"I exchanged my pen ______ his watch.","options":["with","to","for","on"],"answer":2},
+  {"q":"His mother is anxious ______ his future.","options":["of","at","about","for"],"answer":2},
+  {"q":"We are accountable ______ God for our actions.","options":["with","to","on","for"],"answer":1},
+  {"q":"His father is anxious ______ his performance in the exams.","options":["of","for","at","about"],"answer":3},
+  {"q":"We met ______ chance in the market.","options":["in","by","on","at"],"answer":1},
+  {"q":"His views are in accordance ______ mine.","options":["to","with","in","at"],"answer":1},
+  {"q":"They invited me ______ dinner.","options":["for","on","at","to"],"answer":3},
+  {"q":"The boy is quick ______ learning.","options":["in","at","on","to"],"answer":1}
+]

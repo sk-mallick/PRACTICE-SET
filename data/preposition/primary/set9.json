@@ -1,0 +1,17 @@
+[
+  {"q":"My parents left ______ the station half an hour ago.","options":["On","In","By","For"],"answer":3},
+  {"q":"Meeta is capable of improvement ______ studies.","options":["To","For","In","On"],"answer":2},
+  {"q":"My brother lives ______ London.","options":["In","At","For","On"],"answer":0},
+  {"q":"The school reopens ______ Monday.","options":["In","From","For","On"],"answer":3},
+  {"q":"Reeyansh is suffering ______ fever.","options":["From","By","Of","With"],"answer":0},
+  {"q":"That politician has withdrawn his name ______ the present elections.","options":["For","From","To","With"],"answer":1},
+  {"q":"We saw Hitesh relaxing ______ a beach chair.","options":["In","With","On","Under"],"answer":2},
+  {"q":"He strolled ______ the lake.","options":["On","In","Along","With"],"answer":2},
+  {"q":"Alcohol is injurious ______ health.","options":["Of","By","To","For"],"answer":2},
+  {"q":"John is busy ______ his activities.","options":["Over","From","With","On"],"answer":2},
+  {"q":"We often go walking ______ the weekend.","options":["In","From","At","On"],"answer":2},
+  {"q":"Do you work ______ the evenings?","options":["In","At","On","From"],"answer":0},
+  {"q":"The thief jumps ______ the wall.","options":["On","Of","Over","Up"],"answer":2},
+  {"q":"The boy is sitting ______ his grandfather's lap.","options":["Of","On","Under","For"],"answer":1},
+  {"q":"______ the sky, we all live.","options":["In","Under","At","On"],"answer":1}
+]

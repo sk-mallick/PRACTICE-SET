@@ -4,7 +4,7 @@
   {"q":"It is quarter past eight.","options":["8:30","7:30","8:15","17:15"],"answer":2},
   {"q":"It is five to nine.","options":["9:55","9:35","8:55","9:05"],"answer":2},
   {"q":"It is five past nine.","options":["9:55","9:35","8:55","9:05"],"answer":3},
-  {"q":"A friend of mine likes _________on picnic at weekends.","options":["to go","going","goes","go"],"answer":0},
+  {"q":"A friend of mine likes _________on picnic at weekends.","options":["to go","going","goes","go"],"answer":1},
   {"q":"I _________ my teeth every morning.","options":["brushing","brush","brushes","to brush"],"answer":1},
   {"q":"________ Kate live near jane?","options":["Is","Are","Do","Does"],"answer":3},
   {"q":"His father ________ ,but Bill’s father __________ smoke.","options":["smoke/don't","smokes/doesn't","smoke/don't","smoke/isn't"],"answer":1},
@@ -16,7 +16,7 @@
   {"q":"Visitors_________ to India’s Independence Day from all over the world.","options":["visit","come","leave","goes"],"answer":1},
   {"q":"I ________ English, Russian, and Romania, but I ________Chinese.","options":["speak/don't speak","speak/speak","speaks/speaks","speaks/don't speak"],"answer":0},
   {"q":"Many foreigners in our country ________to the Golden Bazaar.","options":["buy","go shopping","want","come"],"answer":1},
-  {"q":"A: What ________ your ________? B: An architect.","options":["do/do","does/do","are/do","do/are"],"answer":0},
+  {"q":"A: What ________ you ________? B: An architect.","options":["do/do","does/do","are/do","do/are"],"answer":0},
   {"q":"A: What ________ your niece________? B: A nurse.","options":["do/do","does/is","does/do","is/do"],"answer":2},
   {"q":"A: Where ________your parents_________? B: In the Ministry of Education.","options":["do/do","do/work","are/work","work/do"],"answer":1}
 ]

@@ -1,0 +1,12 @@
+[
+  {"q":"Mr. Mishra and his wife / were invited / for the cultural function / at my house.","options":["Mr. Mishra and his wife","were invited","for the cultural function","at my house.","No error"],"answer":2,"correction":"for the cultural function → to the cultural function"},
+  {"q":"Beside chocolate / they also bought / many balloons / for the child.","options":["Beside chocolate","they also bought","many balloons","for the child.","No error"],"answer":0,"correction":"Beside → Besides"},
+  {"q":"Yesterday, Binay / came across with / one of his / old friends.","options":["Yesterday, Binay","came across with","one of his","old friends.","No error"],"answer":1,"correction":"came across with → came across"},
+  {"q":"Of what I know / of her / I hesitate to / trust in him.","options":["Of what I know","of her","I hesitate to","trust in him.","No error"],"answer":0,"correction":"Of what I know → From what I know"},
+  {"q":"He left to Delhi / this morning / for some / official work.","options":["He left to Delhi","this morning","for some","official work.","No error"],"answer":0,"correction":"left to Delhi → left for Delhi"},
+  {"q":"He cannot / prevent / me / to go there.","options":["He cannot","prevent","me","to go there.","No error"],"answer":3,"correction":"to go → from going"},
+  {"q":"My book has been / missing / from my room / till yesterday.","options":["My book has been","missing","from my room","till yesterday.","No error"],"answer":1,"correction":"missing → been missing"},
+  {"q":"Akbar / came on the throne / at a very / early age.","options":["Akbar","came on the throne","at a very","early age.","No error"],"answer":1,"correction":"came on the throne → came to the throne"},
+  {"q":"You / must provide / to your children / against the evil day.","options":["You","must provide","to your children","against the evil day.","No error"],"answer":2,"correction":"to your children → for your children"},
+  {"q":"I will / send you / this book / latest by 10th February.","options":["I will","send you","this book","latest by 10th February.","No error"],"answer":2,"correction":"this book → you this book"}
+]

@@ -1,0 +1,17 @@
+[
+  {"q":"We are waiting ______ the next train.","options":["For","With","To","On"],"answer":0},
+  {"q":"I pray ______ God every day.","options":["To","For","Near","From"],"answer":0},
+  {"q":"Mary goes to Church ______ Sunday.","options":["For","At","Upon","On"],"answer":3},
+  {"q":"Whoever sees the film A Wednesday marvels ______ its great storyline.","options":["At","By","In","For"],"answer":0},
+  {"q":"It's been snowing ______ Christmas morning.","options":["In","For","Since","Until"],"answer":2},
+  {"q":"I agree ______ you.","options":["To","On","With","At"],"answer":2},
+  {"q":"Lovely jumped ______ the swimming pool.","options":["On","In","At","Into"],"answer":3},
+  {"q":"The teachers are having a meeting ______ the parents.","options":["For","With","In","Of"],"answer":1},
+  {"q":"Sikander was excited ______ the occasion.","options":["In","For","Of","On"],"answer":1},
+  {"q":"The children were playing cricket ______ the evening.","options":["With","In","For","On"],"answer":1},
+  {"q":"John is busy ______ his activities.","options":["With","Over","On","From"],"answer":0},
+  {"q":"Do not quarrel ______ your friends over a trifle.","options":["With","For","Upon","At"],"answer":0},
+  {"q":"Never yield ______ temptation.","options":["To","On","In","At"],"answer":0},
+  {"q":"I was visiting my best friend ______ the hospital.","options":["In","With","At","Of"],"answer":0},
+  {"q":"My friend lives ______ Shakti Nagar.","options":["Over","To","On","At"],"answer":3}
+]

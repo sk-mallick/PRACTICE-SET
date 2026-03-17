@@ -1,0 +1,12 @@
+[
+  {"q":"He is addicted ______ gambling.","options":["to","with","in","on"],"answer":0},
+  {"q":"He is responsible ______ his actions.","options":["for","to","on","at"],"answer":0},
+  {"q":"He was punished ______ his misbehavior.","options":["for","with","in","at"],"answer":0},
+  {"q":"She is faithful ______ her duty.","options":["in","to","on","at"],"answer":1},
+  {"q":"He is fit ______ the job.","options":["for","in","to","on"],"answer":0},
+  {"q":"I am grateful ______ you for your help.","options":["to","at","for","on"],"answer":0},
+  {"q":"He is hopeful ______ success.","options":["for","of","in","on"],"answer":2},
+  {"q":"She is inclined ______ art and literature.","options":["to","in","with","on"],"answer":0},
+  {"q":"He is intent ______ winning the prize.","options":["at","on","in","for"],"answer":1},
+  {"q":"He is indifferent ______ praise or blame.","options":["with","of","in","to"],"answer":3}
+]

@@ -10,7 +10,7 @@ import { UX } from './ui.js';
 const SUBJECTS = [
     'tenses',
     'sva',
-    'narration',
+    'preposition',
     'voice',
     'articles',
     'prepositions',

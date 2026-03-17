@@ -1,0 +1,17 @@
+[
+  {"q":"The players have been playing ______ four hours.","options":["For","By","Since","With"],"answer":0},
+  {"q":"Virtue always triumphs ______ vice.","options":["Over","With","Upon","Into"],"answer":0},
+  {"q":"He strolled ______ the lake.","options":["On","In","Along","With"],"answer":2},
+  {"q":"Sunita is confident ______ scoring good marks.","options":["About","Of","At","In"],"answer":1},
+  {"q":"How many people have been invited ______ tea?","options":["In","To","For","With"],"answer":1},
+  {"q":"Aunt does laundry ______ Wednesdays.","options":["To","On","With","Of"],"answer":1},
+  {"q":"The boy is sitting ______ his grandfather's lap.","options":["Of","On","Under","For"],"answer":1},
+  {"q":"The trained dog jumped ______ all the hurdles quite easily.","options":["Over","By","Under","On"],"answer":0},
+  {"q":"The cat jumped ______ the table and stole a biscuit.","options":["Onto","On","In","Into"],"answer":0},
+  {"q":"The new trustee is going to preside ______ the annual school meeting.","options":["By","With","Over","On"],"answer":2},
+  {"q":"Close to is denoted with NEAR, distant to is denoted with ______.","options":["Fore","Distance","Far","Further"],"answer":2},
+  {"q":"The teacher told us ______ the planets.","options":["Beside","Across","About","Behind"],"answer":2},
+  {"q":"He will meet me ______ Sunday.","options":["On","At","Of","For"],"answer":0},
+  {"q":"Grandpa stayed up ______ two o'clock in the morning.","options":["After","Until","For","Since"],"answer":1},
+  {"q":"The thief jumps ______ the wall.","options":["On","Of","Over","Up"],"answer":2}
+]

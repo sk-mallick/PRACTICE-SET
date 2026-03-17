@@ -1,0 +1,17 @@
+[
+  {"q":"He deals ______ garments.","options":["with","in","on","at"],"answer":1},
+  {"q":"He congratulated me ______ my success.","options":["at","for","on","with"],"answer":2},
+  {"q":"He is junior ______ me in rank.","options":["from","to","with","of"],"answer":1},
+  {"q":"I prefer coffee ______ tea.","options":["than","to","over","from"],"answer":1},
+  {"q":"The room was filled ______ smoke.","options":["of","with","by","from"],"answer":1},
+  {"q":"He is blind ______ his own faults.","options":["with","in","to","of"],"answer":2},
+  {"q":"He abstains ______ drinking.","options":["with","from","of","at"],"answer":1},
+  {"q":"She is devoted ______ her work.","options":["in","with","to","on"],"answer":2},
+  {"q":"He is engrossed ______ his studies.","options":["with","in","on","at"],"answer":1},
+  {"q":"He is entitled ______ the reward.","options":["for","to","on","with"],"answer":1},
+  {"q":"He was annoyed ______ her behavior.","options":["at","on","with","by"],"answer":0},
+  {"q":"He is ashamed ______ his conduct.","options":["of","with","in","on"],"answer":0},
+  {"q":"He is bent ______ making money.","options":["on","in","with","for"],"answer":0},
+  {"q":"I am confident ______ my success.","options":["with","of","in","on"],"answer":2},
+  {"q":"He is obedient ______ his parents.","options":["for","to","on","at"],"answer":1}
+]

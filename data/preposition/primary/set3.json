@@ -1,0 +1,17 @@
+[
+  {"q":"______ the sky, we all live.","options":["In","Under","At","On"],"answer":1},
+  {"q":"Has Sunil gone ______ a walk?","options":["For","From","To","With"],"answer":0},
+  {"q":"Katy dreamt ______ becoming a queen one day.","options":["Of","To","Upon","For"],"answer":0},
+  {"q":"She got married ______ seventeen.","options":["From","At","On","In"],"answer":1},
+  {"q":"We went to the farms ______ the weekend.","options":["In","On","At","For"],"answer":2},
+  {"q":"The story of the novel is not at all relevant ______ its title.","options":["To","By","In","With"],"answer":0},
+  {"q":"The whole class is engaged ______ the drama competition.","options":["In","By","To","With"],"answer":0},
+  {"q":"Will you complete the project ______ a week?","options":["Into","Within","With","Without"],"answer":1},
+  {"q":"What have I done? Why are you looking ______ me like that?","options":["For","With","By","At"],"answer":3},
+  {"q":"Divide the circle ______ four equal parts, said the teacher.","options":["Into","Onto","By","In"],"answer":0},
+  {"q":"We eat lunch ______ noon.","options":["On","In","For","At"],"answer":3},
+  {"q":"The kite flies ______ in the sky.","options":["On","Up","To","Over"],"answer":1},
+  {"q":"Mary goes to Church ______ Sunday.","options":["For","At","Upon","On"],"answer":3},
+  {"q":"Save the environment ______ pollution.","options":["To","From","With","Of"],"answer":1},
+  {"q":"I'll see you ______ Easter.","options":["In","At","From","On"],"answer":1}
+]

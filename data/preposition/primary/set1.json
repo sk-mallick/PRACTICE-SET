@@ -1,0 +1,17 @@
+[
+  {"q":"My father is at home usually between 9 p.m and 11 p.m.\n(meaning of the underlined preposition)","options":["Intermediate time","Intermediate amount","Intermediate location","Referring to two persons or things"],"answer":0},
+  {"q":"How many prepositions can you find in the list?\njump, by, what, Ravi, with, flower, she, rainbow, pool, over, hurrah, smiling, across, ground, through","options":["7","4","6","5"],"answer":3},
+  {"q":"______ the days that followed her operation, she spent a lot of time in bed.","options":["At","From","On","In"],"answer":3},
+  {"q":"Find out how many prepositions are there given below.\nfor, neither, by, nor, with, at, from, between, and, or","options":["4","6","5","3"],"answer":1},
+  {"q":"I will meet you at half past five.\nChoose the correct description for this use of 'at':","options":["Specific time","An activity","Point in time","Location"],"answer":0},
+  {"q":"______ the winter you can only use the road with a four-wheel drive vehicle.","options":["At","On","In","From"],"answer":2},
+  {"q":"How many prepositions can you find in the list?\nbecause, and, an, of, the, since, house, by, wow, from, he, onto, it, into, hollow, in, play, on","options":["5","8","7","4"],"answer":1},
+  {"q":"Mary entered the room and smiled at me.\n(meaning of the preposition 'at')","options":["In the direction of","On activity","Location","Point in time"],"answer":0},
+  {"q":"______ the moment she is busy with her work.","options":["From","On","In","At"],"answer":3},
+  {"q":"I won't help you with your studies from now on.\n(meaning of the preposition 'from')","options":["Start of a period of time","Cause","Source","Place of origin"],"answer":0},
+  {"q":"The students who have cleared English have been exempted ______ the retest.","options":["From","To","By","For"],"answer":0},
+  {"q":"Jack has made no progress ______ his studies.","options":["In","At","With","On"],"answer":0},
+  {"q":"______ a few minutes we will be arriving at Delhi Airport.","options":["From","At","In","On"],"answer":2},
+  {"q":"The man rewarded the girl ______ a watch for saving his child from drowning.","options":["By","For","From","With"],"answer":3},
+  {"q":"The assembly starts ______ 8:00 am every day.","options":["From","With","At","Upon"],"answer":2}
+]

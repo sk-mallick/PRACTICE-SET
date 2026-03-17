@@ -1,0 +1,17 @@
+[
+  {"q":"President Saddam Hussain has been familiar ______ a guilt all his life.","options":["with","for","in","of"],"answer":0},
+  {"q":"He dealt very politely ______ me.","options":["in","at","with","on"],"answer":2},
+  {"q":"He never parted ______ the silver up that he had got as a reward.","options":["to","with","of","from"],"answer":1},
+  {"q":"He complied ______ my request.","options":["with","by","of","to"],"answer":0},
+  {"q":"A crime is charged ______ a man.","options":["with","against","of","from"],"answer":1},
+  {"q":"Success consists ______ industry.","options":["in","of","with","through"],"answer":0},
+  {"q":"She was removed ______ the office of the director.","options":["to","of","from","at"],"answer":2},
+  {"q":"She shuddered ______ the dreadful sight.","options":["at","on","over","upon"],"answer":0},
+  {"q":"She smiled ______ her mistakes.","options":["on","upon","over","at"],"answer":2},
+  {"q":"I rejoiced ______ her success.","options":["of","on","at","for"],"answer":2},
+  {"q":"The dog snapped ______ the thief and caught his leg.","options":["of","at","on","over"],"answer":1},
+  {"q":"I shall proceed ______ him.","options":["against","to","for","on"],"answer":1},
+  {"q":"He was overwhelmed ______ sorrow.","options":["of","on","by","with"],"answer":2},
+  {"q":"He was involved ______ a crime.","options":["in","into","at","on"],"answer":0},
+  {"q":"I am displeased ______ you, but I am not displeased ______ your fun.","options":["at; with","with; at","with; on","with; to"],"answer":1}
+]

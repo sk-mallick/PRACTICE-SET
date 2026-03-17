@@ -1,0 +1,17 @@
+[
+  {"q":"He was astonished ______ the sad news.","options":["at","in","with","to"],"answer":0},
+  {"q":"He is confident ______ his success.","options":["of","for","to","with"],"answer":0},
+  {"q":"Exercise is beneficial ______ health.","options":["towards","for","to","upon"],"answer":1},
+  {"q":"My wife always grumbles ______ her bad luck.","options":["in","over","at","about"],"answer":3},
+  {"q":"We travelled ______ boat to reach Sri Lanka.","options":["by","on","for","upon"],"answer":0},
+  {"q":"His statement is very much similar ______ mine.","options":["to","of","about","on"],"answer":0},
+  {"q":"He is jealous ______ me.","options":["with","into","of","at"],"answer":2},
+  {"q":"She has a passion ______ dance and music.","options":["upon","at","in","for"],"answer":3},
+  {"q":"He came ______ me in the market.","options":["at","into","across","towards"],"answer":2},
+  {"q":"No one can hinder him ______ doing this.","options":["into","from","for","to"],"answer":1},
+  {"q":"Good sleep is necessary ______ good health.","options":["of","for","at","from"],"answer":1},
+  {"q":"I beg pardon ______ you for being late.","options":["with","of","for","from"],"answer":2},
+  {"q":"Only the blood-stained road was a witness ______ his assassination.","options":["of","to","at","about"],"answer":1},
+  {"q":"I continued to smile ______ his threats.","options":["at","on","upon","over"],"answer":3},
+  {"q":"Fortune continued to smile ______ me.","options":["at","in","with","upon"],"answer":2}
+]

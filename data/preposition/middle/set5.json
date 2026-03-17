@@ -1,0 +1,17 @@
+[
+  {"q":"He is interested ______ music.","options":["on","in","to","with"],"answer":1},
+  {"q":"We must have confidence ______ ourselves.","options":["in","on","to","for"],"answer":0},
+  {"q":"She insisted ______ going there.","options":["in","on","to","at"],"answer":1},
+  {"q":"You should not laugh ______ the poor.","options":["at","on","to","with"],"answer":0},
+  {"q":"The project will be completed ______ a year.","options":["in","by","within","on"],"answer":2},
+  {"q":"He is not contented ______ his salary.","options":["with","on","at","in"],"answer":0},
+  {"q":"He died ______ cholera.","options":["of","from","with","in"],"answer":0},
+  {"q":"We agreed ______ the proposal.","options":["with","on","to","in"],"answer":1},
+  {"q":"The jury consists ______ ten members.","options":["of","with","in","to"],"answer":0},
+  {"q":"She is incapable ______ lying.","options":["in","of","with","on"],"answer":1},
+  {"q":"He is afraid ______ snakes.","options":["of","from","with","at"],"answer":0},
+  {"q":"He accused me ______ theft.","options":["of","with","for","on"],"answer":0},
+  {"q":"We were alarmed ______ the news.","options":["with","by","at","on"],"answer":1},
+  {"q":"She is married ______ a doctor.","options":["to","with","of","on"],"answer":0},
+  {"q":"The table is made ______ wood.","options":["of","from","with","by"],"answer":0}
+]
