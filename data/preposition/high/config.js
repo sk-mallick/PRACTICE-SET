@@ -6,7 +6,7 @@ export default {
     icon: "list",
     sets: 6,
     level: "H",
-    headerTitle: "PREPOSITION — FIND THE ERROR",
+    headerTitle: "PREPOSITION - FIND THE ERROR",
     headerSubtitlePrefix: "By Chiranjibi Sir",
     pdfheader: "Preposition Error Finding",
 }
