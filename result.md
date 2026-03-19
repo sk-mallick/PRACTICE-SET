@@ -232,7 +232,7 @@ Each level folder also contains a `set.json` which is the **complete, unsplit qu
 
 ```
 ┌─────────────┐     click card      ┌────────────────────────────────────────────┐
-│ index.html  │ ──────────────────► │ engine/mcq.html  OR  fill.html  OR        │
+│ index.html  │ ──────────────────► │ engine/mcq.html  OR  fill.html  OR         │
 │ (card grid) │                     │ error.html                                 │
 └─────────────┘                     │ ?subject=preposition&level=high&set=1      │
        │                            └────────────────────────────────────────────┘
