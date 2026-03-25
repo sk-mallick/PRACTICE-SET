@@ -5,7 +5,7 @@
     {"q":"We (1) / travelled (2) / with steamer (3) / to reach there. (4)","options":["We","travelled","with steamer","to reach there."],"answer":2,"correction":"with steamer → by steamer"},
     {"q":"His statement (1) / is very much (2) / similar about (3) / yours. (4)","options":["His statement","is very much","similar about","yours."],"answer":2,"correction":"similar about → similar to"},
     {"q":"The shopkeeper (1) / deals with grain (2) / but did not deal (3) / honestly with me. (4)","options":["The shopkeeper","deals with grain","but did not deal","honestly with me."],"answer":1,"correction":"deals with grain → deals in grain"},
-    {"q":"He (1) / appealed to the judge (2) / for his release (3) / from jail. (4)","options":["He","appealed to the judge","for his release","from jail."],"answer":-1,"correction":"No error"},
+    {"q":"He (1) / appealed to the judge (2) / for his release (3) / from jail. (4)","options":["He","appealed to the judge","for his release","from jail.","No error"],"answer":4,"correction":"No error"},
     {"q":"I complained against (1) / the magistrate (2) / against Munna (3) / about his misconduct. (4)","options":["I complained against","the magistrate","against Munna","about his misconduct."],"answer":2,"correction":"against Munna → about Munna"},
     {"q":"We (1) / are (2) / responsible for God (3) / for our actions. (4)","options":["We","are","responsible for God","for our actions."],"answer":2,"correction":"for God → to God"},
     {"q":"The doctor referred (1) / the patient for the P.M.C.H. (2) / without (3) / examining him. (4)","options":["The doctor referred","the patient for the P.M.C.H.","without","examining him."],"answer":1,"correction":"for the P.M.C.H. → to the P.M.C.H."},

@@ -73,7 +73,28 @@ uxStyle.textContent = `
 `;
 document.head.appendChild(uxStyle);
 
-// --- 3. PRINT PROTECTION MODULE (MODULARIZED) ---
+// --- 3. COPY PROTECTION MODULE ---
+export function initCopyProtection(options = {}) {
+    if (window.__copyProtectionEnabled) return;
+    window.__copyProtectionEnabled = true;
+
+    const adminName = options.adminName || options.ownerName || 'Subham Sir';
+    const brandLine = options.brandLine || `🔒 EnglishJibi Classes content is protected. 🚫 Unauthorized copying is prohibited. 👨‍💻 Developer/Admin: ${adminName}. 兒子，別抄襲了，專心學習吧😄`;
+
+    // Replace copied content with a branded protection line.
+    document.addEventListener('copy', (event) => {
+        if (event.clipboardData) {
+            event.clipboardData.setData('text/plain', brandLine);
+        } else if (window.clipboardData) {
+            window.clipboardData.setData('Text', brandLine);
+        }
+        event.preventDefault();
+    }, true);
+}
+
+initCopyProtection({ adminName: 'Subham Sir' });
+
+// --- 4. PRINT PROTECTION MODULE (MODULARIZED) ---
 export function initPrintProtection() {
     const style = document.createElement('style');
     style.type = 'text/css';
@@ -150,7 +171,7 @@ export function initPrintProtection() {
     document.body.appendChild(div);
 }
 
-// --- 4. UX UTILITIES ---
+// --- 5. UX UTILITIES ---
 export const UX = {
     // Progress Bar Psychology
     ProgressBar: {
